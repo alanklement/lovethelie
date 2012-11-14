@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<user_img>./img/girl_04.jpg</user_img>
+		<user_name>beckylarson307</user_name>
+		<shoe_img>./img/shoe_04.jpg</shoe_img>
+		<shoe_name>Champion Teal Rainbow Canvas</shoe_name>
+		<shoe_price><![CDATA[$100]]></shoe_price>
+		<shoe_link>http://www.google.com/	</shoe_link>
+	</user>
+	<user>
+		<user_img>./img/girl_05.jpg</user_img>
+		<user_name>Girl Two</user_name>
+		<shoe_img>./img/shoe_05.jpg</shoe_img>
+		<shoe_name>Shoe Name Number Three</shoe_name>
+		<shoe_price><![CDATA[$100]]></shoe_price>
+		<shoe_link>http://www.google.com/</shoe_link>
+	</user>
+	<user>
+		<user_img>./img/girl_06.jpg</user_img>
+		<user_name>Girl Three</user_name>
+		<shoe_img>./img/shoe_06.jpg</shoe_img>
+		<shoe_name>Shoe Four</shoe_name>
+		<shoe_price><![CDATA[$100]]></shoe_price>
+		<shoe_link>http://www.google.com/</shoe_link>
+	</user>	
+</users>
+

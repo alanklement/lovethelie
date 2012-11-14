@@ -1,0 +1,135 @@
+﻿move_forward_colorector_728x90.swf Movie Report
+------------------------------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+       765    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS5</xmp:CreatorTool> <xmp:CreateDate>2010-08-18T10:01:12-04:00</xmp:CreateDate> <xmp:MetadataDate>2010-08-24T18:07:20-04:00</xmp:MetadataDate> <xmp:ModifyDate>2010-08-24T18:07:20-04:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:8F0A3CF1872068118083E344818BC27E</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:8F0A3CF1872068118083E344818BC27E</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:01801174072068118C14D77ACEA88F61</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:C66B1C59712068118083E344818BC27E</stRef:instanceID> <stRef:documentID>xmp.did:E31FB7F3252068118083E344818BC27E</stRef:documentID> <stRef:originalDocumentID>xmp.did:01801174072068118C14D77ACEA88F61</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          17504          17504    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                  5289
+
+Symbol                      Shape Bytes    Text Bytes    ActionScript Bytes
+------------------------    -----------    ----------    ------------------
+advice_txt_mc                         0            44                     0
+arrow_body                           67             0                     0
+arrow_head                           87             0                     0
+Advice_728_MC                         0             0                     0
+bubble_mc                           226             0                     0
+blur                                 43             0                     0
+bottom                                0            44                     0
+<Group>_1                           115             0                     0
+<Group>                             115             0                     0
+Background_728_MC                     0             0                     0
+inner_bg                             24             0                     0
+Blue_Arrow_728_MC                     0             0                     0
+<Clip Group 0>_1                     51             0                     0
+<Clip Group 0>                       54             0                     0
+copy                                  0             0                     0
+email_art_mc                        262             0                     0
+emails_mc                           217             0                     0
+Email_728_MC                          0             0                     0
+information_mc                        0            66                     0
+Green_Dot_728_MC                     43             0                     0
+Yellow_Arrow_MC                       0             0                     0
+Symbol 1                             49             0                     0
+heart_art_mc                        338             0                     0
+hit                                  41             0                     0
+Handle                               49             0                     0
+Heart_728_MC                          0             0                     0
+support_txt_mc                        0            58                     0
+intro_pills_top_copy                  0            54                     0
+Move_Forward_728_MC                   0            44                     0
+Move_Forward_Blue_728_MC              0             0                     0
+Symbol 35                            56             0                     0
+Symbol 34                            35             0                     0
+Symbol 33                            73             0                     0
+Symbol 32                            38             0                     0
+Symbol 31                             0             0                     0
+Symbol 30                            54             0                     0
+Symbol 29                            42             0                     0
+Symbol 28                            59             0                     0
+Symbol 27                            27             0                     0
+Symbol 26                             0             0                     0
+Symbol 25                            39             0                     0
+pills                                 0             0                     0
+Pills_Final_728_MC                    0             0                     0
+Symbol 2                              0            55                     0
+Pills_Intro_728_MC                    0             0                     0
+inner                                46             0                     0
+ring                                105             0                     0
+Ring_728_MC                           0             0                     0
+Symbol 3                              0             0                     0
+Symbol 4                              0             0                     0
+Symbol 5                              0             0                     0
+Symbol 6                              0             0                     0
+Symbol 7                              0             0                     0
+Symbol 8                              0             0                     0
+Symbol 9                              0             0                     0
+Symbol 10                             0             0                     0
+Symbol 11                             0             0                     0
+Symbol 12                             0             0                     0
+Symbol 13                             0             0                     0
+Symbol 14                             0             0                     0
+Symbol 15                             0             0                     0
+Symbol 16                             0             0                     0
+Symbol 17                             0             0                     0
+Symbol 18                             0             0                     0
+Symbol 19                             0             0                     0
+Symbol 20                             0             0                     0
+Symbol 21                             0             0                     0
+Symbol 22                             0             0                     0
+Symbol 23                             0             0                     0
+Symbol 24                             0             0                     0
+Symbol 36                             0             0                     0
+Take_Control_728_MC                   0            41                     0
+Track                                55             0                     0
+Yellow_Arrow_728                      0             0                     0
+Yellow_Dot_728_MC                    43             0                     0
+Pull_728_MC                         151             0                     0
+Symbol 37                             0            33                     0
+arrow_left                           22             0                     0
+arrow_right                           0             0                     0
+Tween 1                              22             0                     0
+arrow_base                           23             0                     0
+arrow                                 0             0                     0
+
+Font Name                                Bytes         Characters
+-------------------------------------    ----------    ----------
+HelveticaNeue-Roman                             608     ACEKLNORT
+Handwriting-Dakota                              397    lpu
+HelveticaNeue-BoldCondObl Bold Italic          1813     AEFIMSTYabcdefghilmnoprtuvwxy
+HelveticaNeue-MediumCondObl Italic             1012     Aacehilmoprty
+
+ActionScript Bytes    Location
+------------------    --------
+               309    Scene 1:Frame 1:Advice_728_MC
+               278    Scene 1:Frame 1:Background_728_MC
+               278    Scene 1:Frame 1:Blue_Arrow_728_MC
+               307    Scene 1:Frame 1:Email_728_MC
+               274    Scene 1:Frame 1:Green_Dot_728_MC
+               302    Scene 1:Frame 1:Heart_728_MC
+               278    Scene 1:Frame 1:Move_Forward_728_MC
+               441    Scene 1:Frame 1:Move_Forward_Blue_728_MC
+               395    Scene 1:Frame 1:Pills_Final_728_MC
+               313    Scene 1:Frame 1:Pills_Intro_728_MC
+               405    Scene 1:Frame 1:Pull_728_MC
+               369    Scene 1:Frame 1:Ring_728_MC
+               309    Scene 1:Frame 1:Take_Control_728_MC
+               289    Scene 1:Frame 1:Yellow_Arrow_728
+               275    Scene 1:Frame 1:Yellow_Dot_728_MC
+               467    Scene 1:Frame 1:move_forward_colorector_728x90_fla.MainTimeline
+
+Bitmap       Compressed    Original      Compression
+---------    ----------    ----------    -----------
+pills.png          1804         27848    JPEG Quality=80
+
+
+
+

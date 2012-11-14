@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:VBox xmlns:mx="http://www.adobe.com/2006/mxml" 
+	width="100%"
+	height="100%"
+	verticalAlign="middle"
+	horizontalAlign="center"
+	creationComplete="_onCreationComplete()" >
+		
+	<mx:Script>
+		<![CDATA[
+			import mx.rpc.events.FaultEvent;
+			import com.greensock.TweenLite;
+			
+			import mx.collections.ArrayCollection;
+			import mx.controls.Alert;
+			import mx.controls.Image;
+			import mx.core.IFlexDisplayObject;
+			import mx.events.CloseEvent;
+			import mx.events.DragEvent;
+			import mx.events.ListEvent;
+			import mx.events.ResizeEvent;
+			import mx.managers.CursorManager;
+			import mx.managers.PopUpManager;
+			import mx.rpc.events.ResultEvent;
+			import mx.utils.ObjectProxy;
+
+			[Bindable]
+			private var _images : ArrayCollection ;
+			[Bindable]
+			private var _books : ArrayCollection ;
+						
+			private var _fileRefList		: FileReferenceList;
+			private var _fileRef			: FileReference;
+			private var _popupImg 			: Image;
+
+			private var _uploadPHP			: String = 'upload.php' ;
+			private var _deletePHP			: String = 'delete.php' ;
+			private var _saverPHP			: String = 'save.php' ;
+			private var _galleryPHP			: String = 'gateway.php' ;
+			private var _imagesPath:String = './images/';
+			private var _thumbsPath:String = './thumbs/';
+			private var popUpProject:IFlexDisplayObject;
+
+						/****    live    ******/
+			private var _phpPath			: String = "./../php/"; 
+			private var php_upload_Path			: String = "./../php/"; 
+			
+			private function _onCreationComplete():void
+			{
+				loadAllBooks();
+			}
+			
+			private function loadAllBooks():void
+			{
+				var phpFile : String = _phpPath + _galleryPHP;
+				trace('phpFile: ' + (phpFile));
+				var action:String = "action=get_books";
+				
+				sectionService.url = phpFile + PHPUtils.createCacheBuster() + "&" + action;	
+				sectionService.send();
+			}
+
+			private function _onSectionResult ( event:ResultEvent ):void 
+			{
+				_books = event.result.books.book;
+			}
+			
+			private function _onLoadImages( event:ResultEvent ):void 
+			{ 					
+				tileList.dataProvider = null;
+				_images = new ArrayCollection() ;
+
+				var xmlResult:XML = event.result as XML;
+				var xmlList:XMLList = xmlResult.children() ;
+
+				if ( xmlList.length() == 0 )
+				{	
+					var book:String = sectionsCB.selectedItem.name; 
+					Alert.show("		  " + sectionsCB.selectedItem.title + " is currently empty.\n\nClick the 'Add' button to upload images.\n");	
+				}
+				else if ( xmlList.length() != 0 )
+				{
+					for each ( var xml:XML in xmlList )
+					{					
+						var obj:ObjectProxy = new ObjectProxy();
+						obj.source = xml.@source.toString() ;
+						obj.id = xml.@id.toString() ;
+						obj.thumbId = xml.@thumbId.toString() ;
+						obj.thumbSource = xml.@thumbSource.toString() ;
+						_images.addItem(obj) ;
+					}
+				}
+				tileList.dataProvider = _images;
+			}
+			
+			private function _onSelectCB( event:ListEvent ):void
+			{
+				addBtn.enabled = true;				
+				var phpFile:String = _phpPath + _galleryPHP;
+				var fileName:String = sectionsCB.selectedItem.fileName ;
+				var action:String = "action=get_images&fileName=" + fileName;
+				
+				xmlService.url = phpFile + PHPUtils.createCacheBuster() + "&" + action;
+				xmlService.send();							
+			}
+			
+			private function _removeImg( event:MouseEvent ):void
+			{
+				var selectedIndex:int = tileList.selectedIndex;
+								
+				if ( selectedIndex == -1 ) { Alert.show("Choose an image to remove"); }
+				else if ( selectedIndex != -1 ) 
+				{ 
+					var confirmDelete:Alert = Alert.show( 'Remove Image From ' + sectionsCB.selectedItem.title, null, Alert.YES|Alert.NO, this,_onConfirmDeleteImage);					
+				}
+			}
+			
+			private function _onConfirmDeleteImage( event:CloseEvent ):void
+			{
+				if( event.detail == Alert.YES )
+				{
+					var flex_app:int = tileList.selectedIndex;
+					var phpFile:String = _phpPath + _deletePHP;
+					PHPUtils.deleteFromServer( tileList.selectedItem.source, phpFile ) ;
+					_images.removeItemAt( flex_app );
+					updateChangesToXML(); 
+				}
+				else { return; }
+			}
+			
+			private function _ondoulbleClickTL( $evt:ListEvent ):void 
+			{
+	       		_popupImg = new Image();
+                _popupImg.maintainAspectRatio = true;
+				_popupImg.addEventListener(Event.COMPLETE, image_complete);
+                _popupImg.addEventListener(ResizeEvent.RESIZE, image_resize);
+                _popupImg.addEventListener(MouseEvent.CLICK, image_click);
+                _popupImg.source = Data_Model.image_url_prefix+$evt.itemRenderer.data.source;
+                _popupImg.setStyle("addedEffect", image_addedEffect);
+               	PopUpManager.addPopUp(_popupImg, this, true);
+            }
+            
+            private function image_click(evt:MouseEvent):void { PopUpManager.removePopUp(evt.currentTarget as Image); }
+
+            private function image_resize(evt:ResizeEvent):void { PopUpManager.centerPopUp(evt.currentTarget as Image); }
+
+            private function image_complete(evt:Event):void { PopUpManager.centerPopUp(evt.currentTarget as Image); }
+                        
+            private function _onClickUpload(event:MouseEvent):void
+			{				
+ 				_fileRefList = new FileReferenceList();
+				_fileRefList.addEventListener(Event.SELECT, _onSelectImage ) ;
+ 
+				var imagesFilter:FileFilter = new FileFilter("Images", "*.jpg;*.jpeg;");
+
+				_fileRefList.browse([imagesFilter]); 
+			}
+			
+			private function _onSelectImage(event:Event):void
+			{	
+				_doUpload();
+			}
+			
+			private function _doUpload():void
+			{
+				var url:String = php_upload_Path + _uploadPHP ;
+				TweenLite.to(tileList, .25, {alpha:.35});
+				
+				CursorManager.setBusyCursor();
+				sectionsCB.enabled = false;
+				addBtn.enabled = false;	
+				logout.enabled = false;
+				
+				this.popUpProject = PopUpManager.createPopUp(this, upload_progress,true);
+				PopUpManager.centerPopUp(popUpProject);
+					
+				_fileRef = _fileRefList.fileList.pop();
+				_fileRef.addEventListener(DataEvent.UPLOAD_COMPLETE_DATA, _onDataLoadComplete,false,0,true);
+				_fileRef.addEventListener(IOErrorEvent.IO_ERROR, handle_error);					
+				_fileRef.upload(new URLRequest( url ));
+			}
+			
+			private function handle_error(event:IOErrorEvent):void
+			{				
+				trace( 'handle_error', 'event: ' + (event).type);
+			}
+			
+			private function _onDataLoadComplete(event:DataEvent):void
+			{	
+				_fileRef.removeEventListener(DataEvent.UPLOAD_COMPLETE_DATA, 	_onDataLoadComplete);
+
+				var obj:ObjectProxy = new ObjectProxy();
+				obj.source = event.data ;
+				obj.thumbSource = event.data ;
+				_images.addItem(obj) ;
+				updateChangesToXML() ;
+									
+				if(_fileRefList.fileList.length != 0)
+				{
+					_doUpload();	
+				}		
+				else if(_fileRefList.fileList.length == 0)
+				{
+					TweenLite.to(tileList, .25, {alpha:1});
+	 				PopUpManager.removePopUp(popUpProject);
+	 				sectionsCB.enabled = true;
+					addBtn.enabled = true;
+					logout.enabled = true;
+					tileList.alpha = 1;
+				}
+	 				CursorManager.removeBusyCursor();
+ 			}
+			
+			private function _onDragComplete(event:DragEvent):void
+			{
+				updateChangesToXML();
+			}
+
+			private function updateChangesToXML():void
+			{	
+				var phpPath:String = _phpPath + _saverPHP;
+				trace( 'updateChangesToXML', 'phpPath: ' + (phpPath));
+				
+				var fileName:String = sectionsCB.selectedItem.fileName ;
+				PHPUtils.saveChangesToXML(fileName,phpPath,_images ) ;
+			}
+
+			private function _onError(event : FaultEvent) : void {
+				
+				trace('event: ' + (event));
+			}
+			
+		]]>
+	</mx:Script>
+	
+	<mx:DefaultTileListEffect id="tileListEffect"
+            fadeOutDuration="250"
+            fadeInDuration="350"
+            moveDuration="500" color="0x141414" />
+    
+    <mx:Fade id="image_addedEffect" duration="750" />
+    
+    <mx:Parallel id="image_removedEffect">
+        <mx:Zoom />
+        <mx:Fade />
+    </mx:Parallel>
+    
+    <mx:HTTPService id="xmlService" result="_onLoadImages(event)" resultFormat="e4x" showBusyCursor="true"/>  
+	<mx:HTTPService id="sectionService" fault="_onError(event)" result="_onSectionResult(event)"  showBusyCursor="true" />
+	
+	<mx:HBox height="25" width="100%" horizontalAlign="center" verticalAlign="middle" horizontalGap="20">
+		<mx:ComboBox id="sectionsCB" dataProvider="{_books}" labelField="title" change="_onSelectCB(event)" rowCount="6" prompt="Section..." />
+		<mx:Button id="addBtn" label="Add" click="_onClickUpload(event)"/>
+		<mx:Button id="removeBtn" label="Remove" click="_removeImg(event)"/>
+		<mx:Button id="logout" label="Logout" click="Data_Model.getInstance().currentView = 0"/>
+		<mx:Button id="bgBtn" label="Change Background" click="var popUpProject:IFlexDisplayObject = PopUpManager.createPopUp(this, BGManager,true);PopUpManager.centerPopUp(popUpProject)"/>
+		<!--<mx:Button id="compBTN" label="Update Compcards" click="var popUpProject:IFlexDisplayObject = PopUpManager.createPopUp(this, PDFManager,true);PopUpManager.centerPopUp(popUpProject)"/>-->
+	</mx:HBox>
+	
+	<mx:TileList 	id="tileList" width="75%" height="100%" rowHeight="125" columnWidth="150"
+					itemsChangeEffect="{tileListEffect}"
+					backgroundColor="#141414" 
+					allowDragSelection="true"
+					rollOverColor="#343434"
+					selectionColor="#a4a4a4"
+					dragEnabled="true"
+					dropEnabled="true"
+					dragMoveEnabled="true"
+					doubleClickEnabled="true"
+					dragComplete="_onDragComplete(event)"
+					itemDoubleClick="_ondoulbleClickTL(event)"
+					itemRenderer="ListRenderer">
+	</mx:TileList>
+	
+	<mx:Label text="Katarina Scola"/>
+	<mx:HBox width="100%" verticalAlign="middle" horizontalAlign="center">
+	</mx:HBox>
+</mx:VBox>

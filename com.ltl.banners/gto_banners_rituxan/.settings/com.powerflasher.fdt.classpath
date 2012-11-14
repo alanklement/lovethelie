@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AS3Classpath>
+<AS3Classpath generateProblems="true" sdkBased="false" type="source" useAsSharedCode="false">300x250</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="false" type="lib" useAsSharedCode="false">lib/greensock.swc</AS3Classpath>
+<AS3Classpath generateProblems="true" sdkBased="false" type="source" useAsSharedCode="false">160x600</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="true" type="lib" useAsSharedCode="false">frameworks/libs/player/{playerVersion}/playerglobal.swc</AS3Classpath>
+<AS3Classpath generateProblems="false" sdkBased="true" type="lib" useAsSharedCode="false">frameworks/libs/flex.swc</AS3Classpath>
+<AS3Classpath generateProblems="true" sdkBased="false" type="source" useAsSharedCode="false">728x90</AS3Classpath>
+</AS3Classpath>

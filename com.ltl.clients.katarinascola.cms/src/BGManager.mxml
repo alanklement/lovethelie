@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Panel xmlns:mx="http://www.adobe.com/2006/mxml" 
+	layout="vertical" 
+	width="600" 
+	height="400" 
+	initialize="_onInit()" 
+	verticalAlign="middle" 
+	horizontalAlign="center"
+	title="Change Background Image"
+	textAlign="center"
+	fontWeight="bold">
+
+<mx:Script>
+	<![CDATA[
+		import mx.core.IFlexDisplayObject;
+		import com.greensock.TweenLite;
+		
+		import mx.managers.CursorManager;
+		import mx.managers.PopUpManager;
+		
+		private var _phpUtils:PHPUtils;
+		private var _xml:XML;
+		private var _url:String;
+		private var _fileRef:FileReference;
+		private var _uploadPHP			: String = 'uploadBG.php' ;
+		private var _phpPath			: String = "../php/"; 
+		private var _saverPHP			: String = 'save.php' ;
+		private var _phpPath_2			: String = "./php/"; 
+		private var new_image_url:String;
+		private var popUpProject:IFlexDisplayObject;
+		
+		private function _onInit(event:Event = null):void
+		{
+			_phpUtils = new PHPUtils(false);
+			_phpUtils.addEventListener(PHPEvent.BACKGROUNDS_LOADED, _onBGloaded);
+			_phpUtils.loadBackgrounds();
+			CursorManager.setBusyCursor();
+		}
+		
+		private function _onBGloaded(event:PHPEvent):void
+		{
+			_phpUtils.removeEventListener(PHPEvent.BACKGROUNDS_LOADED, _onBGloaded);
+			_xml = _phpUtils.backgrounds;
+			
+			for each (var item:XML in _xml..image)
+			{
+				_url = item.attribute('source').toString();
+			}
+			
+			bgIMG.source = Data_Model.image_url_prefix + _url;
+			TweenLite.to(bgIMG, .5, {alpha:1});
+			CursorManager.removeBusyCursor();
+		}
+		
+		private function _chooseNewBG(event:MouseEvent):void
+		{
+			_fileRef = new FileReference();
+			_fileRef.addEventListener(Event.SELECT, _onImgSelected);
+			
+			var imagesFilter:FileFilter = new FileFilter("Images", "*.jpg;*.jpeg;");
+
+			_fileRef.browse([imagesFilter]); 	
+		}
+		
+		private function _onImgSelected(event:Event):void
+		{
+			var url:String = _phpPath + _uploadPHP ;
+			_fileRef.addEventListener(DataEvent.UPLOAD_COMPLETE_DATA, _onDataLoadComplete,false,0,true);
+			_fileRef.addEventListener(IOErrorEvent.IO_ERROR, _handle_error);
+								
+			_fileRef.upload(new URLRequest( url ));
+			CursorManager.setBusyCursor();
+			this.popUpProject = PopUpManager.createPopUp(this, upload_progress,true);
+			PopUpManager.centerPopUp(popUpProject);
+		}
+		
+		private function _handle_error(event:IOErrorEvent):void
+		{
+			trace( '_handle_error', 'event: ' + (event));
+		}	
+		
+		private function _onDataLoadComplete(event:DataEvent):void
+		{
+			
+			var xml:XML = <images/>;
+			var defaultNode:XML = <image/>;
+			
+			var imageNode:XML = defaultNode.copy();
+			imageNode.@source = Data_Model.image_url_prefix +event.data;
+			new_image_url = Data_Model.image_url_prefix +event.data;
+			xml.appendChild(imageNode);	
+			
+			var xmlData:String = '<?xml version="1.0" encoding="utf-8"?>\n' + xml.toString();
+			
+			var phpFile:String = _phpPath_2 + _saverPHP;
+			
+			
+			var loader	: URLLoader 	= new URLLoader();
+			loader.addEventListener(Event.COMPLETE, _fadeBack);
+			var vars	: URLVariables 	= new URLVariables();
+			var req		: URLRequest 	= new URLRequest(phpFile);
+		
+			vars.content = xmlData;
+			vars.fileName = 'backgrounds.xml';
+			
+			req.data = vars;
+			req.method = URLRequestMethod.POST;
+			loader.load(req);
+			CursorManager.removeBusyCursor();
+		}
+		
+		private function _fadeBack(event:Event):void
+		{
+			_onInit();
+			PopUpManager.removePopUp(popUpProject);
+		}
+	]]>
+</mx:Script>
+	<mx:Image id="bgIMG" height="300" width="500" maintainAspectRatio="true" alpha="0"/>
+	<mx:ControlBar horizontalAlign="center" verticalAlign="middle" horizontalGap="10">
+		<mx:Button id="newbgBTN" label="Choose Image" click="_chooseNewBG(event)"/>
+		<mx:Button label="Exit" click="PopUpManager.removePopUp(this);"/>
+	</mx:ControlBar>
+</mx:Panel>

@@ -1,0 +1,103 @@
+400x600_RM_alt2.swf Movie Report
+---------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1          63718          63718    Scene 1 (AS 2.0 Classes Export Frame)
+      2             87          63805    
+      3             87          63892    
+      4             87          63979    
+      5             87          64066    
+      6             87          64153    
+      7             87          64240    
+      8            108          64348    
+      9            109          64457    
+     10            173          64630    
+     11             38          64668    
+     12             30          64698    
+     13             19          64717    
+     14             17          64734    
+     15             68          64802    
+     16              2          64804    
+     17              2          64806    
+     18              2          64808    
+     19              2          64810    
+     20            571          65381    
+     21            114          65495    
+     22            114          65609    
+     23             87          65696    
+     24             98          65794    
+     25             98          65892    
+     26             98          65990    
+     27             87          66077    
+     28             52          66129    
+     29             60          66189    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                               65           342                  5499
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+hit_area                              61             0                     0
+dotted lines                         565             0                     0
+mouse_blocker                          0             0                     0
+close_bg                              59             0                     0
+Symbol 3                               0             0                     0
+Tween 5                                0             0                     0
+Tween 4                                0             0                     0
+Tween 3                                0             0                     0
+Tween 2                                0             0                     0
+Tween 1                                0             0                     0
+arrow                                  0             0                    10
+Symbol 2                               0             0                     0
+arrow_MC                               0             0                     0
+bg                                    40             0                     0
+shop_now_bg                           66             0                     0
+Symbol 1                              58             0                     0
+Shop Now Btn                           0            46                     0
+loader_holder                          0             0                     0
+inspire copy                           0           124                     0
+logo                                   0             0                     0
+open-close                            80             0                     0
+close                                 50             0                     0
+Left_Nav                              38             0                     0
+Image                                  0             0                     0
+visit_gallery                          0            67                     0
+copy                                   0            82                     0
+spinner                              366             0                     0
+Preloader                              0             0                     0
+heart                                  0             0                     0
+hit                                    0             0                     0
+love_it                                0           163                     0
+
+
+Tweened Shapes: 282 bytes
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+Archer-Medium                  4186     +.0123456789AILMOPTUYdehilnoprstuv
+ConduitITC-Medium              1651     ADEGIKLRSTVY
+Archer-Bold                   13493     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Archer-Semibold                2357     .IKUadehiklnoprstuwy
+ConduitITC-Bold                1601     AEFGHIMORST
+
+ActionScript Bytes    Location
+------------------    --------
+              5376    Scene 1:as:1
+                 2    arrow:as:5
+                 8    arrow:as:20
+                54    Scene 1:as:15
+                23    Scene 1:as:20
+                46    Scene 1:as:29
+             28009    ActionScript 2.0 Classes
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+Bitmap 4                        2481       11544   JPEG Quality=80
+arrow.png                        134         256   Lossless
+heart.png                        164         780   Lossless
+
+
+
+

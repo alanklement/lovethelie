@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:VBox xmlns:mx="http://www.adobe.com/2006/mxml"  height="100%" width="100%" 
+	verticalAlign="middle" 
+	horizontalAlign="center"
+	creationComplete="_onCreationComplete()"
+	show="passwordTI.text = ''" >
+		
+	<mx:Script>
+		<![CDATA[
+			import mx.controls.Alert;
+
+			private function _onCreationComplete():void
+			{
+				this.addEventListener(KeyboardEvent.KEY_DOWN, loginKeyboard) ;
+			}
+			
+			private function loginKeyboard( $evt:KeyboardEvent ):void
+			{
+				if ( $evt.keyCode == 13 ){ login(); }
+				else { return; }
+			}
+
+			private function login():void
+			{
+				// town I went to with mother and sister
+				if( passwordTI.text == '' )
+				{
+					Data_Model.getInstance().currentView = 1 ;
+				}
+				else { Alert.show('Incorrect password');} 	
+			}
+		]]>
+	</mx:Script>
+	
+	<mx:Panel height="200" width="450" verticalAlign="middle" horizontalAlign="center" title="Katarina Scola" textAlign="center">
+		<mx:Label text="Password"/>
+		<mx:TextInput id="passwordTI" displayAsPassword="true"/>	
+		<mx:ControlBar verticalAlign="middle" horizontalAlign="center">
+			<mx:Button  id="loginBtn" label="Login" click="login()"/>
+		</mx:ControlBar>
+	</mx:Panel>
+	
+</mx:VBox>

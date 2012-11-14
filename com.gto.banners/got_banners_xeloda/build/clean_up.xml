@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="clean_up" default="clean">
+	<target name="clean">
+		<delete file="${basedir}./../libs/art/move_forward.swf">
+		</delete>
+		<delete file="${basedir}./../libs/art/move_forward_colorector_300x250.swf">
+		</delete>
+		<delete file="${basedir}./../libs/art/move_forward_colorector_300x250 Report.txt">
+		</delete>
+		<delete file="${basedir}./../libs/art/move_forward_metastatic_300x250.swf">
+		</delete>
+		<delete file="${basedir}./../libs/art/move_forward_metastatic_300x250 Report.txt">
+		</delete>
+		<delete file="${basedir}./../libs/art/move_forward_colorector_728x90.swf">
+		</delete>
+		<delete file="${basedir}./../libs/art/move_forward_colorector_728x90 Report.txt">
+		</delete>
+		<delete file="${basedir}./../libs/art/move_forward_metastatic_728x90.swf">
+		</delete>
+		<delete file="${basedir}./../libs/art/move_forward_metastatic_728x90 Report.txt">
+		</delete>
+	</target>
+</project>

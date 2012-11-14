@@ -1,0 +1,150 @@
+banner.swf Movie Report
+------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1          35383          35383    Motif Core (AS 2.0 Classes Export Frame)
+      2          19419          54802    Scene 1
+      3            218          55020    
+      4            214          55234    
+      5            213          55447    
+      6            214          55661    
+      7            198          55859    
+      8            215          56074    
+      9            223          56297    
+     10            217          56514    
+     11            216          56730    
+     12            216          56946    
+     13            211          57157    
+     14            213          57370    
+     15            217          57587    
+     16            210          57797    
+     17            214          58011    
+     18             22          58033    
+     19              2          58035    
+     20            103          58138    
+     21             13          58151    
+     22             13          58164    
+     23             13          58177    
+     24             37          58214    
+     25           1911          60125    
+     26             62          60187    
+     27             61          60248    
+     28             60          60308    
+     29             60          60368    
+     30             60          60428    
+     31             60          60488    
+     32             60          60548    
+     33             60          60608    
+     34            119          60727    
+     35             58          60785    
+     36             58          60843    
+     37             58          60901    
+     38              2          60903    
+     39              2          60905    
+     40              2          60907    
+     41              2          60909    
+     42              2          60911    
+     43              2          60913    
+     44              2          60915    
+     45              2          60917    
+     46              2          60919    
+     47              2          60921    
+     48              2          60923    
+     49             58          60981    
+     50             58          61039    
+     51             58          61097    
+     52             58          61155    
+     53             58          61213    
+     54             56          61269    
+     55             56          61325    
+     56             54          61379    
+     57             54          61433    
+     58             54          61487    
+     59             54          61541    
+     60            141          61682    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Motif Core                             0             0                   578
+Scene 1                              161             0                  8193
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Symbol 2                              53             0                     0
+ZoomViewStroke                         0             0                     0
+InnerHolder                            0             0                     0
+productDetailMask                     54             0                     0
+Large Image Holder                     0             0                     0
+ZoomProductMC                         54             0                     0
+ZoomProductBtn                         0             0                     0
+Zoom Prodcut                           0             0                     0
+Symbol 1                             203             0                     2
+ZoomTOol                               0             0                   457
+ShopNowButton                        151            67                     6
+templateid_mc                          0             0                     0
+interactiontimer_mc                    0             0                   749
+conduitdata_mc                         0             0                   204
+conduit_mc                             0             0                 11385
+copyright                              0             0                     0
+btn                                    0             0                     0
+Tween 2                                0             0                     0
+Tween 1                                0             0                     0
+hoodie                                 0             0                     0
+loader bar progress                   97             0                     0
+loader bar                           143             0                     0
+arrao button                           0             0                     0
+back_btn_mc                            0             0                     0
+browse_btn_functions                   0             0                     0
+main_mv_mc                            42           231                   749
+clickTagger                           41             0                     0
+arrow button                         121             0                     0
+nav holder                             0             0                     0
+holder                                40             0                     0
+hoodies_mc                            58             0                   105
+ btn                                   0             0                     0
+price                                  0             0                     0
+number                                36           306                     2
+red                                   54             0                     0
+logo01                              1725             0                     0
+c_anim                              3110             0                     0
+shop_btn                               0             0                     0
+txt_rollover                           0           133                     0
+legal                                  0           137                     0
+
+
+Tweened Shapes: 184 bytes
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+Gotham-Bold                    4404     .0123456789BCDHMNSabcdefhiklmnoprsuy®
+Gotham-Book                    5901     !"'*,-./029ABCDEFHIJKMNOPRSTUWZabcdefghijklmnoprstuvwxyz©’
+
+ActionScript Bytes    Location
+------------------    --------
+                 2    number:Layer 4:1
+             11385    conduit_mc:Layer 1:1
+               204    conduitdata_mc:Layer 1:1
+               749    interactiontimer_mc:Layer 1:1
+               578    Motif Core:Motif Script:1
+              8112    Scene 1:as:1
+               348    main_mv_mc:Actions:1
+               105    hoodies_mc:Layer 2:1
+                 2    ZoomTOol:// script:5
+               386    ZoomTOol:// script:16
+                 2    Symbol 1:action:1
+                69    ZoomTOol:// script:42
+                 1    main_mv_mc:Actions:20
+                 1    main_mv_mc:Actions:29
+                 2    ShopNowButton:// script:1
+                 2    ShopNowButton:// script:10
+                 2    ShopNowButton:// script:30
+               397    main_mv_mc:Actions:40
+                 2    main_mv_mc:Actions:63
+               107    
+                81    Scene 1:as:59
+             16908    ActionScript 2.0 Classes
+
+
+
+

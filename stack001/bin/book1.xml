@@ -1,0 +1,56 @@
+<book1>
+	<story>
+		<image source="img/book1/img0.jpg" thumb="thumb/book1/thumb0.jpg"></image>
+		<image source="img/book1/img1.jpg" thumb="thumb/book1/thumb1.jpg"></image>
+		<image source="img/book1/img2.jpg" thumb="thumb/book1/thumb2.jpg"></image>
+		<image source="img/book1/img3.jpg" thumb="thumb/book1/thumb3.jpg"></image>	
+	</story>
+	<story>	
+		<image source="img/book1/img4.jpg" thumb="thumb/book1/thumb4.jpg"></image>
+		<image source="img/book1/img5.jpg" thumb="thumb/book1/thumb5.jpg"></image>
+		<image source="img/book1/img6.jpg" thumb="thumb/book1/thumb6.jpg"></image>
+		<image source="img/book1/img7.jpg" thumb="thumb/book1/thumb7.jpg"></image>
+		<image source="img/book1/img8.jpg" thumb="thumb/book1/thumb8.jpg"></image>		
+	</story>
+	<story>
+		<image source="img/book1/img9.jpg" 	thumb="thumb/book1/thumb9.jpg"></image>
+		<image source="img/book1/img10.jpg" thumb="thumb/book1/thumb10.jpg"></image>
+		<image source="img/book1/img11.jpg" thumb="thumb/book1/thumb11.jpg"></image>
+		<image source="img/book1/img12.jpg" thumb="thumb/book1/thumb12.jpg"></image>		
+	</story>
+	<story>
+		<image source="img/book1/img13.jpg" thumb="thumb/book1/thumb13.jpg"></image>
+		<image source="img/book1/img14.jpg" thumb="thumb/book1/thumb14.jpg"></image>
+		<image source="img/book1/img15.jpg" thumb="thumb/book1/thumb15.jpg"></image>		
+		<image source="img/book1/img16.jpg" thumb="thumb/book1/thumb16.jpg"></image>
+		<image source="img/book1/img17.jpg" thumb="thumb/book1/thumb17.jpg"></image>		
+	</story>
+	<story>
+		<image source="img/book1/img18.jpg" thumb="thumb/book1/thumb18.jpg"></image>
+		<image source="img/book1/img19.jpg" thumb="thumb/book1/thumb19.jpg"></image>
+		<image source="img/book1/img20.jpg" thumb="thumb/book1/thumb20.jpg"></image>
+		<image source="img/book1/img21.jpg" thumb="thumb/book1/thumb21.jpg"></image>
+		<image source="img/book1/img22.jpg" thumb="thumb/book1/thumb22.jpg"></image>		
+	</story>
+	<story>
+		<image source="img/book1/img23.jpg" thumb="thumb/book1/thumb23.jpg"></image>
+		<image source="img/book1/img24.jpg" thumb="thumb/book1/thumb24.jpg"></image>
+		<image source="img/book1/img25.jpg" thumb="thumb/book1/thumb25.jpg"></image>
+		<image source="img/book1/img26.jpg" thumb="thumb/book1/thumb26.jpg"></image>
+		<image source="img/book1/img27.jpg" thumb="thumb/book1/thumb27.jpg"></image>
+		<image source="img/book1/img28.jpg" thumb="thumb/book1/thumb28.jpg"></image>		
+	</story>
+	<story>
+		<image source="img/book1/img29.jpg" thumb="thumb/book1/thumb29.jpg"></image>
+		<image source="img/book1/img30.jpg" thumb="thumb/book1/thumb30.jpg"></image>
+		<image source="img/book1/img31.jpg" thumb="thumb/book1/thumb31.jpg"></image>
+		<image source="img/book1/img32.jpg" thumb="thumb/book1/thumb32.jpg"></image>
+		<image source="img/book1/img33.jpg" thumb="thumb/book1/thumb33.jpg"></image>
+	</story>
+	<story>
+		<image source="img/book1/img34.jpg" thumb="thumb/book1/thumb34.jpg"></image>
+		<image source="img/book1/img35.jpg" thumb="thumb/book1/thumb35.jpg"></image>
+		<image source="img/book1/img36.jpg" thumb="thumb/book1/thumb36.jpg"></image>
+		<image source="img/book1/img37.png" thumb="thumb/book1/thumb37.jpg"></image>
+	</story>
+</book1>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+	<video>
+		<title><![CDATA[Expressions]]></title>
+		<fileName><![CDATA[expressions.flv]]></fileName>
+	</video>
+	<video>
+		<title><![CDATA[Macy's]]></title>
+		<fileName><![CDATA[macy1.flv]]></fileName>
+	</video>
+	<video>
+		<title><![CDATA[Pantene I]]></title>
+		<fileName><![CDATA[pantene_arabic.flv]]></fileName>
+	</video>
+	<video>
+		<title><![CDATA[Pantene II]]></title>
+		<fileName><![CDATA[pantene_english.f4v]]></fileName>
+	</video>
+</videos>

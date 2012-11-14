@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+    <head>
+        <title>${title}</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	 	<style type="text/css">
+			body
+			{
+				background-color:#ffffff;
+			}
+							
+			#flashDiv
+			{
+				position:absolute;
+				top:0x;
+				left:50%;
+				width:${swf.width}px;
+				height:${swf.height}px;
+				margin:50px 0 0 -475px;
+				z-index:2;
+			}
+			
+		</style>
+    </head>
+    <body bgcolor="#cccccc">
+        <div id="flashDiv">
+        </div>
+    </body>
+
+    <script type="text/javascript" src="js/swfobject.js">
+    </script>
+    <script type="text/javascript">
+        
+        var flashvars = {};
+        flashvars.imagesBaseDir = "";
+	    flashvars.basepath = "";
+	   	flashvars.skinsURL = "swf/skins/keds_stylegallery_skins.swf";
+	    flashvars.preloader_url = "swf/skins/keds_preloader.swf";	            
+	    flashvars.xmlData = "http://www.kedscollective.com/chictopia_photos.xml";
+	    flashvars.backToChictopiaUrl = "http://www.chictopia.com/";
+	    flashvars.submitUrlForApproval = "http://www.kedscollective.com/chictopia_photos/add.xml";
+	    flashvars.voteLoveUrlPrefix = "http://www.kedscollective.com/chictopia_photos/love/";
+	    flashvars.cross_domain_policy_url = "http://static.kedscollective.com/crossdomain.xml";
+	    flashvars.open_window_command = "_top";
+	    flashvars.use_smoothing = "";
+        
+        var params = {};
+        params.menu = "false";
+        params.bgcolor = "#FFfffff";
+        params.wmode = "opaque";
+        params.scale = "noScale";
+        params.salign = "tl";
+        params.allowscriptaccess = "always";
+        params.allowfullscreen = "true";
+        params.swliveconnect = true;
+        
+        var attributes = {};
+        attributes.id = "flashDiv";
+        attributes.name = "flashDiv";
+        
+        swfobject.embedSWF("swf/stylegallery.swf", "flashDiv", "650", "625", "9.0.0", "expressInstall.swf", flashvars, params);
+        
+    </script>
+</html>

@@ -1,0 +1,90 @@
+﻿cll_invitation_160x600.swf Movie Report
+----------------------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+       974    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash CS4 Professional</xmp:CreatorTool> <xmp:CreateDate>2010-08-05T06:11:46-04:00</xmp:CreateDate> <xmp:MetadataDate>2010-10-03T12:11:33-04:00</xmp:MetadataDate> <xmp:ModifyDate>2010-10-03T12:11:33-04:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:FC7F11740720681180839A7A0BAA7A7F</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:FC7F11740720681180839A7A0BAA7A7F</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:018011740720681193A696A66BDB6038</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:FB7F11740720681180839A7A0BAA7A7F</stRef:instanceID> <stRef:documentID>xmp.did:088011740720681193A696A66BDB6038</stRef:documentID> <stRef:originalDocumentID>xmp.did:018011740720681193A696A66BDB6038</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          39388          39388    Scene 1 (AS 3.0 Classes Export Frame)
+      2              1          39389    
+      3              1          39390    
+      4              1          39391    
+      5              1          39392    
+      6              1          39393    
+      7              1          39394    
+      8              1          39395    
+      9              1          39396    
+     10              1          39397    
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1             54             0                 16732
+
+Symbol                Shape Bytes    Text Bytes    ActionScript Bytes
+------------------    -----------    ----------    ------------------
+at_living                       0            65                     0
+bg                             43             0                     0
+copy_2                          0           212                     0
+copy_3                       1967             0                     0
+copy_mc                      2157             0                     0
+cta_btn_bg_mc                   0             0                     0
+for_you_txt                   241             0                     0
+from_living_txt              1583             0                     0
+<Group>_1                       0             0                     0
+<Path>                        101             0                     0
+<Path>_1                       86             0                     0
+<Path>_1_0                     38             0                     0
+<Path>                        101             0                     0
+<Path>_1                       86             0                     0
+inner                          73             0                     0
+join_now_mc                   274             0                     0
+logo_mc                         0             0                     0
+man_sky_mc                      0             0                     0
+mc_cover_up                     0             0                     0
+mc_cta                          0             0                     0
+mc_envelope                    74             0                     0
+mc_envelope_back               45             0                     0
+mc_envelope_flap               54             0                     0
+mc_envelope_front             175             0                     0
+mc_last                         0             0                     0
+mc_postcard_back                0             0                     0
+mc_postcard_front               0             0                     0
+mc_swoosh                       0             0                     0
+mc_uber                         0             0                     0
+postcard_front                 29             0                     0
+postcard_mc                    74             0                     0
+report_mc                       0             0                     0
+special_invite_txt              0             0                     0
+Symbol 1                        0             0                     0
+Symbol 2                        0             0                     0
+Symbol 3                       59             0                     0
+text_3                          0             0                     0
+txt_1                         737             0                     0
+txt_2                           0             0                     0
+txt_11                          0             0                     0
+txt_21                          0             0                     0
+
+Font Name                 Bytes         Characters
+----------------------    ----------    ----------
+GillSans                        1413     .CLWacghimnotv
+GillSans-Italic Italic          2114     &Sacdefgilmnoprstuy
+
+ActionScript Bytes    Location
+------------------    --------
+             16732    Scene 1:Frame 1
+
+Bitmap             Compressed    Original      Compression
+---------------    ----------    ----------    -----------
+swoosh.png                123          8256    Lossless
+postcard_bg.jpg          1173        137280    Imported JPEG=102
+man_sky.jpg              2362         57600    JPEG Quality=75
+docs.png                 2825         49500    JPEG Quality=70
+logo_2.png               2158         12516    JPEG Quality=60
+
+
+
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="clean_up" default="clean">
+	<target name="clean">
+		<delete file="${basedir}./../lib/art/300x250.swf">
+		</delete>
+		<delete file="${basedir}./../lib/art/300x250 Report.txt">
+		</delete>
+	</target>
+</project>

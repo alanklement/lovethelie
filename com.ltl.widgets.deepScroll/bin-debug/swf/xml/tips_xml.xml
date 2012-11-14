@@ -1,0 +1,2443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<array_item>
+		<tip_id>27</tip_id>
+		<name_first>Kristen</name_first>
+		<name_last>E</name_last>
+		<email />
+		<city>Lexington</city>
+		<state>MA</state>
+		<tip>Carry a mug with you wherever you go for take out beverages.
+		</tip>
+		<data>10197</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-03-30 10:17:01</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>28</tip_id>
+		<name_first>Andy</name_first>
+		<name_last>P</name_last>
+		<email />
+		<city>Stamford</city>
+		<state>CT</state>
+		<tip>If possible, choose a utility company focused on renewable energy. </tip>
+		<data>15723</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-03-30 10:25:09</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>29</tip_id>
+		<name_first>Jesse</name_first>
+		<name_last>M</name_last>
+		<email />
+		<city>Brooklyn</city>
+		<state>NY</state>
+		<tip>Unplug your appliances when not using them to conserve energy in the kitchen </tip>
+		<data>27916</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-03-30 10:26:15</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>30</tip_id>
+		<name_first>Rebecca</name_first>
+		<name_last>M</name_last>
+		<email />
+		<city>New York</city>
+		<state>NY</state>
+		<tip>Organize a community group to clean up a local stream, highway, park, or beach. </tip>
+		<data>40252</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-03-30 10:54:05</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>31</tip_id>
+		<name_first>Bridget</name_first>
+		<name_last>M</name_last>
+		<email />
+		<city>New Orleans</city>
+		<state>LA</state>
+		<tip>Organize a community group to clean up a local stream, highway, park, or beach. When you are out hiking, pick up trash along the way.
+		</tip>
+		<data>39082</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-03-30 10:54:51</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>32</tip_id>
+		<name_first>Ted</name_first>
+		<name_last>G</name_last>
+		<email />
+		<city>Charlottesville</city>
+		<state>VA</state>
+		<tip>When you are out hiking, pick up trash along the way. </tip>
+		<data>44229</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-03-30 10:55:19</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>33</tip_id>
+		<name_first>Jason</name_first>
+		<name_last>W</name_last>
+		<email />
+		<city>Cedarberg</city>
+		<state>WI</state>
+		<tip>Water your plants or garden at night to minimize evaporation.
+		</tip>
+		<data>43110</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-03-30 11:52:12</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>34</tip_id>
+		<name_first>Cullen</name_first>
+		<name_last>C</name_last>
+		<email />
+		<city>Los Angeles</city>
+		<state>CA</state>
+		<tip>Use your dishwasher - don't rinse dishes beforehand. Average savings is 20 gallons! </tip>
+		<data>21289</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-03-30 11:54:31</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>35</tip_id>
+		<name_first>Emily</name_first>
+		<name_last />
+		<email />
+		<city>Brooklyn</city>
+		<state>NY</state>
+		<tip>Switch your energy to wind power. It's easy, just go the the website for your energy provider. It only takes a few clicks.</tip>
+		<data>42568</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-03-30 12:19:10</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>36</tip_id>
+		<name_first>Emily</name_first>
+		<name_last />
+		<email />
+		<city>Brooklyn</city>
+		<state>NY</state>
+		<tip>Go paper free. Cancel paper statements for all of your credits cards/ bank accounts ect. Sign up for a service that will stop all ofyour junk mail. </tip>
+		<data>62579</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-03-30 12:19:44</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>37</tip_id>
+		<name_first>Emily</name_first>
+		<name_last />
+		<email />
+		<city>Brooklyn</city>
+		<state>NY</state>
+		<tip>Make a pledge to throw out less food. On average, households throw away 14 percent of their food purchases.  </tip>
+		<data>62115</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-03-30 12:20:38</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>38</tip_id>
+		<name_first>Emily</name_first>
+		<name_last />
+		<email />
+		<city>Brooklyn</city>
+		<state>NY</state>
+		<tip>Eat less meat; the livestock industry is one of the worst polluters. When you do eat meat, look for meat that comes from local, humane farms.</tip>
+		<data>60839</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-03-30 12:21:04</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>39</tip_id>
+		<name_first>Emily</name_first>
+		<name_last />
+		<email />
+		<city>Brooklyn</city>
+		<state>NY</state>
+		<tip>Buy green cleaning products.-All the chemicals in normal cleaning products are overkill. You don't want that stuff in your home!</tip>
+		<data>9290</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-03-30 12:21:37</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>40</tip_id>
+		<name_first>Emily</name_first>
+		<name_last />
+		<email />
+		<city>Brooklyn</city>
+		<state>NY</state>
+		<tip>Don't print anything you don't have to. </tip>
+		<data>21306</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-03-30 12:22:31</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>41</tip_id>
+		<name_first>Emily</name_first>
+		<name_last />
+		<email />
+		<city>Brooklyn</city>
+		<state>NY</state>
+		<tip>Reuse the backsides of paper.</tip>
+		<data>16654</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-03-30 12:22:51</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>44</tip_id>
+		<name_first>Chris</name_first>
+		<name_last>L</name_last>
+		<email />
+		<city>brockton</city>
+		<state>MA</state>
+		<tip>read a book...turn the tv off</tip>
+		<data>69452</data>
+		<visitor_ip>57.68.54.34</visitor_ip>
+		<date_created>2009-03-31 08:31:29</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>47</tip_id>
+		<name_first>P</name_first>
+		<name_last>L</name_last>
+		<email />
+		<city>New York</city>
+		<state>NY</state>
+		<tip>Recycle your magazines and newspapers.</tip>
+		<data>35392</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-03-31 12:24:55</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>51</tip_id>
+		<name_first>Maureen</name_first>
+		<name_last>L</name_last>
+		<email />
+		<city>Dublin</city>
+		<state>OH</state>
+		<tip>Reuse old shopping bags to line your trash cans. They are perfect size for the smaller bins.</tip>
+		<data>22233</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-03 13:04:40</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>52</tip_id>
+		<name_first>Ronda</name_first>
+		<name_last>R</name_last>
+		<email />
+		<city>Athens</city>
+		<state>GA</state>
+		<tip>Water your plants.</tip>
+		<data>53047</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-03 13:07:59</date_created>
+		<date_updated>2009-04-06 15:44:08</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>54</tip_id>
+		<name_first>Alex</name_first>
+		<name_last>M</name_last>
+		<email />
+		<city>Debardieu</city>
+		<state>SC</state>
+		<tip>Simplify. Only keep things you use/enjoy on a regular basis, and you'll naturally buy less/create less waste in the future.</tip>
+		<data>17301</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 10:41:47</date_created>
+		<date_updated>2009-04-06 10:52:50</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>55</tip_id>
+		<name_first>Marie</name_first>
+		<name_last>B</name_last>
+		<email />
+		<city>New York</city>
+		<state>NY</state>
+		<tip>Only print on recycled, bleach free paper. </tip>
+		<data>14385</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 10:42:53</date_created>
+		<date_updated>2009-04-06 10:52:50</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>56</tip_id>
+		<name_first>Rita</name_first>
+		<name_last>K</name_last>
+		<email />
+		<city>Jackson</city>
+		<state>MS</state>
+		<tip>Only buy recycled, bleach free paper.</tip>
+		<data>38879</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 10:44:22</date_created>
+		<date_updated>2009-04-06 10:52:50</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>57</tip_id>
+		<name_first>Margaret</name_first>
+		<name_last>R</name_last>
+		<email />
+		<city>New York</city>
+		<state>NY</state>
+		<tip>Replace paper napkins and paper towels with a special set of cloth towels/napkins. Just wash and reuse.</tip>
+		<data>53157</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 10:45:37</date_created>
+		<date_updated>2009-04-06 10:52:50</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>58</tip_id>
+		<name_first>James</name_first>
+		<name_last>K</name_last>
+		<email />
+		<city>Sacramento</city>
+		<state>CA</state>
+		<tip>While shopping, if you only buy a few products skip the shopping bag. For larger purchases, bring your own reusable bag. </tip>
+		<data>5345</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 10:46:06</date_created>
+		<date_updated>2009-04-06 10:52:50</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>59</tip_id>
+		<name_first>Ronald</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>Destin</city>
+		<state>FL</state>
+		<tip>When traveling, look for environmentally friendly hotels. Also, use only one set of towels per trip. </tip>
+		<data>26888</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 10:47:31</date_created>
+		<date_updated>2009-04-06 10:52:50</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>60</tip_id>
+		<name_first>Katherine</name_first>
+		<name_last>J</name_last>
+		<email />
+		<city>Salt Lake City</city>
+		<state>UT</state>
+		<tip>When staying at a hotel, motel or B&amp;B, let mgmt know you support businesses that adopt green practices (reducing waste etc).
+		</tip>
+		<data>52886</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 10:50:20</date_created>
+		<date_updated>2009-04-06 10:52:50</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>62</tip_id>
+		<name_first>Martta</name_first>
+		<name_last>M</name_last>
+		<email />
+		<city>Minneapolis</city>
+		<state>MN</state>
+		<tip>Look around your home for items that can be donated to charity. EX: clothes, furniture, dishes, books, sports equipment.</tip>
+		<data>53814</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 10:52:23</date_created>
+		<date_updated>2009-04-06 10:52:50</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>63</tip_id>
+		<name_first>Lacey</name_first>
+		<name_last>O</name_last>
+		<email />
+		<city>Richmond</city>
+		<state>VA</state>
+		<tip>Practice good recycling habits by using the containers provided by your town or city. If not provided, create them!</tip>
+		<data>62334</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 10:55:04</date_created>
+		<date_updated>2009-04-06 10:56:32</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>64</tip_id>
+		<name_first>Becky</name_first>
+		<name_last>M</name_last>
+		<email />
+		<city>New York</city>
+		<state>NY</state>
+		<tip>Buy food from local companies whenever possible, and support your local Farmer's Market. </tip>
+		<data>25274</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 10:56:18</date_created>
+		<date_updated>2009-04-06 10:56:32</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>65</tip_id>
+		<name_first>Christopher</name_first>
+		<name_last>W</name_last>
+		<email />
+		<city>Dallas</city>
+		<state>TX</state>
+		<tip>If possible, grow your own fruits and vegetables using organic gardening practices. </tip>
+		<data>33475</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 10:57:19</date_created>
+		<date_updated>2009-04-06 11:14:10</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>66</tip_id>
+		<name_first>Rob</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>Charlotte</city>
+		<state>NC</state>
+		<tip>If you are taking a trip, consider buying carbon emission offsets. </tip>
+		<data>19405</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 11:06:18</date_created>
+		<date_updated>2009-04-06 11:14:10</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>67</tip_id>
+		<name_first>Bobby</name_first>
+		<name_last>H</name_last>
+		<email />
+		<city>Austin</city>
+		<state>TX</state>
+		<tip>Whenever possible, keep lights off during the day.</tip>
+		<data>63229</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 11:06:56</date_created>
+		<date_updated>2009-04-06 11:14:10</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>68</tip_id>
+		<name_first>Joann</name_first>
+		<name_last>C</name_last>
+		<email />
+		<city>Nantucket</city>
+		<state>MA</state>
+		<tip>Get family members into the habit of turning off lights when leaving a room (taping small reminder notes to switches helps).</tip>
+		<data>34112</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 11:09:06</date_created>
+		<date_updated>2009-04-06 11:14:10</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>69</tip_id>
+		<name_first>Anthony</name_first>
+		<name_last>F</name_last>
+		<email />
+		<city>Kenner</city>
+		<state>LA</state>
+		<tip>Aggressive driving lowers mileage 33% on the highway and 5% in town. Driving above 60 mph also decreases mileage. Slow down! </tip>
+		<data>23903</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 11:13:56</date_created>
+		<date_updated>2009-04-06 11:14:10</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>70</tip_id>
+		<name_first>Carrie</name_first>
+		<name_last>B</name_last>
+		<email />
+		<city>Omaha</city>
+		<state>NE</state>
+		<tip>Each time you turn on a water faucet use the lowest pressure necessary. </tip>
+		<data>15245</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 12:48:25</date_created>
+		<date_updated>2009-04-06 13:01:53</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>71</tip_id>
+		<name_first>Roxanne</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>Newport Beach</city>
+		<state>CA</state>
+		<tip>For drinking water, keep a pitcher in your refrigerator so you don't have to let water run to cool. </tip>
+		<data>5597</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 12:49:02</date_created>
+		<date_updated>2009-04-06 13:01:53</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>72</tip_id>
+		<name_first>Lynn</name_first>
+		<name_last>L</name_last>
+		<email />
+		<city>Kansas City</city>
+		<state>KS</state>
+		<tip>Always run full loads of laundry and dishes. Choose the short cycle at low water levels whenever possible.</tip>
+		<data>864</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 13:11:32</date_created>
+		<date_updated>2009-04-06 13:23:31</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>73</tip_id>
+		<name_first>Candice</name_first>
+		<name_last>G</name_last>
+		<email />
+		<city>Phoenix</city>
+		<state>AZ</state>
+		<tip>If you buy a new appliance, switch to a water-conserving model (e.g., front loading washer). </tip>
+		<data>9197</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 13:12:16</date_created>
+		<date_updated>2009-04-06 13:23:31</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>74</tip_id>
+		<name_first>Lauren</name_first>
+		<name_last>B</name_last>
+		<email />
+		<city>Baton Rouge</city>
+		<state>LA</state>
+		<tip>Check your water meter when no one is using water in the house. If it's moving there's a leak. </tip>
+		<data>11843</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 13:13:22</date_created>
+		<date_updated>2009-04-06 13:23:31</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>75</tip_id>
+		<name_first>Kathy</name_first>
+		<name_last>T</name_last>
+		<email />
+		<city>Torrence</city>
+		<state>CA</state>
+		<tip>Running toilet? To check yours, add food coloring to the tank w/o flushing. After 10 min, look for color (leaks)in the bowl. </tip>
+		<data>81286</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 13:19:32</date_created>
+		<date_updated>2009-04-06 13:23:31</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>76</tip_id>
+		<name_first>Francie</name_first>
+		<name_last>U</name_last>
+		<email />
+		<city>Tuscaloosa</city>
+		<state>AL</state>
+		<tip>Form a Arbor Day group with family and/or friends. Plan regular gatherings for tree-planting and watering. </tip>
+		<data>19154</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 13:21:01</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>77</tip_id>
+		<name_first>Randall</name_first>
+		<name_last>F</name_last>
+		<email />
+		<city>Thomasville</city>
+		<state>GA</state>
+		<tip>Commit to planting and maintaining an agreed-upon number of trees over your life time.</tip>
+		<data>54898</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 13:21:38</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>78</tip_id>
+		<name_first>Keds Green</name_first>
+		<name_last>L</name_last>
+		<email />
+		<city>Lexington</city>
+		<state>LA</state>
+		<tip>Whenever possible, buy clothing made from organic cotton. The Keds Green Label CVO is made from 100% organic cotton. </tip>
+		<data>27698</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 13:23:08</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>79</tip_id>
+		<name_first>Laurie</name_first>
+		<name_last>C</name_last>
+		<email />
+		<city>Houston</city>
+		<state>TX</state>
+		<tip>If you are installing Christmas lights, consider purchasing more energy efficient Light-Emitting Diodes (LEDs). </tip>
+		<data>30947</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 13:28:44</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>80</tip_id>
+		<name_first>Emily</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>Brooklyn</city>
+		<state>NY</state>
+		<tip>Use a reusable bag for everything, not just groceries. The fancier the store, they cooler they thing you are for using a reus
+		</tip>
+		<data>17239</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 13:40:54</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>81</tip_id>
+		<name_first>Emily</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>Brooklyn</city>
+		<state>NY</state>
+		<tip>Carry a cloth handkerchief in your purse. Use it instead of paper-towels/napkins when out and about. What they do in Tokyo!</tip>
+		<data>20612</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 13:43:30</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>82</tip_id>
+		<name_first>Emily</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>Brooklyn</city>
+		<state>NY</state>
+		<tip>Find a cool set of reusable silverware to carry in your bag wherever you go. Works better than the plastic stuff &amp; no waste!
+		</tip>
+		<data>3008</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 13:45:38</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>83</tip_id>
+		<name_first>Emily</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>Brooklyn</city>
+		<state>NY</state>
+		<tip>Be aware that almost everything you buy will end up in the landfilleventually. Choose wisely.</tip>
+		<data>68452</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 14:19:13</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>84</tip_id>
+		<name_first>Christina</name_first>
+		<name_last>R</name_last>
+		<email />
+		<city>Little Rock</city>
+		<state>AK</state>
+		<tip>Buy higher quality.Spend a little more, to get the thing you really want. You'll get more use, and can resell if you need to.
+		</tip>
+		<data>85345</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 14:42:52</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>85</tip_id>
+		<name_first>Callie</name_first>
+		<name_last>Y</name_last>
+		<email />
+		<city>Charleston</city>
+		<state>SC</state>
+		<tip>Buy a good set of cast iron pots, and it will last many life times. No need to replace, and create more waste. </tip>
+		<data>56888</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 14:45:09</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>86</tip_id>
+		<name_first>Cynthia</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>Lubbock</city>
+		<state>TX</state>
+		<tip>Use Craigslist and eBay to get rid of old stuff. </tip>
+		<data>50115</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 15:25:50</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>87</tip_id>
+		<name_first>Elisha</name_first>
+		<name_last>C</name_last>
+		<email />
+		<city>Reno</city>
+		<state>NV</state>
+		<tip>Shop vintage. Any time you buy something used instead of new you are helping mother earth out!</tip>
+		<data>44686</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 15:26:42</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>88</tip_id>
+		<name_first>Kathleen</name_first>
+		<name_last>D</name_last>
+		<email />
+		<city>Nashville</city>
+		<state>TN</state>
+		<tip>Choose products with less packaging.</tip>
+		<data>8722</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 15:27:26</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>89</tip_id>
+		<name_first>Sarah</name_first>
+		<name_last>P</name_last>
+		<email />
+		<city>Elmira</city>
+		<state>NY</state>
+		<tip>Look for refillable pens, avoid disposable razors. Small things add up.</tip>
+		<data>58644</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 15:29:23</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>90</tip_id>
+		<name_first>Nina</name_first>
+		<name_last>Z</name_last>
+		<email />
+		<city>Carroll Gardens</city>
+		<state>NY</state>
+		<tip>Buy the big jar of applesauce instead of the individual servings. Way less plastic ends up in the trash.</tip>
+		<data>10056</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 15:33:44</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>91</tip_id>
+		<name_first>Renee</name_first>
+		<name_last>E</name_last>
+		<email />
+		<city>Atlanta</city>
+		<state>GA</state>
+		<tip>When you print something (especially from the web) check print preview to make sure you really need that last page.</tip>
+		<data>10458</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 15:41:41</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>92</tip_id>
+		<name_first>Taylor</name_first>
+		<name_last>H</name_last>
+		<email />
+		<city>Tulsa</city>
+		<state>OK</state>
+		<tip>Get better at grocery shopping, only buy what you can use before it spoils. And don't forget to eat your leftovers!</tip>
+		<data>15818</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 15:43:18</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>93</tip_id>
+		<name_first>Madeline</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>Chicago</city>
+		<state>IL</state>
+		<tip>Walk instead of drive. </tip>
+		<data>56412</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 15:59:37</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>94</tip_id>
+		<name_first>June</name_first>
+		<name_last>N</name_last>
+		<email />
+		<city>Baltimore</city>
+		<state>MD</state>
+		<tip>Even if things are a bit more expensive at your local market, buy there instead of driving to the superstore. Save gas.</tip>
+		<data>77658</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 16:02:33</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>95</tip_id>
+		<name_first>Miranda</name_first>
+		<name_last>K</name_last>
+		<email />
+		<city>Raleigh</city>
+		<state>NC</state>
+		<tip>Recycle electronics. Better yet, sell them so someone else can use them. I just got $100 for my old cell on ebay!</tip>
+		<data>48109</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 16:03:40</date_created>
+		<date_updated>2009-04-10 16:12:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>96</tip_id>
+		<name_first>Magda</name_first>
+		<name_last>H</name_last>
+		<email />
+		<city>Harahan</city>
+		<state>LA</state>
+		<tip>Give a goat! A charitable contribution is a perfect gift for friend w/everything. (oxfamamericaunwrapped.com/home.php?cat=9)</tip>
+		<data>84742</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-06 16:22:57</date_created>
+		<date_updated>2009-04-13 08:39:32</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>98</tip_id>
+		<name_first>Chris</name_first>
+		<name_last>L</name_last>
+		<email>langway@yahoo.com</email>
+		<city>Bedford</city>
+		<state>MA</state>
+		<tip>read a book...turn off the tv</tip>
+		<data>4248</data>
+		<visitor_ip>96.237.115.58</visitor_ip>
+		<date_created>2009-04-07 13:45:55</date_created>
+		<date_updated>2009-04-13 08:39:32</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>111</tip_id>
+		<name_first>Hannah</name_first>
+		<name_last>S</name_last>
+		<email>hannah@hannahweb.com</email>
+		<city>Concord</city>
+		<state>MA</state>
+		<tip>Bring your utensils for lunch instead of wasting a plastic one.
+		</tip>
+		<data>52155</data>
+		<visitor_ip>57.68.54.34</visitor_ip>
+		<date_created>2009-04-09 11:07:08</date_created>
+		<date_updated>2009-04-13 08:39:32</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>112</tip_id>
+		<name_first>Jon</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>Bangor</city>
+		<state>ME</state>
+		<tip>Use cloth napkins instead of paper</tip>
+		<data>21668</data>
+		<visitor_ip>57.68.54.34</visitor_ip>
+		<date_created>2009-04-09 11:21:30</date_created>
+		<date_updated>2009-04-13 08:39:32</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>113</tip_id>
+		<name_first>Katti</name_first>
+		<name_last>F</name_last>
+		<email>katti@aol.com</email>
+		<city>Minneapolis</city>
+		<state>MN</state>
+		<tip>Use a hankerchief instead of tissues.</tip>
+		<data>44857</data>
+		<visitor_ip>57.68.54.34</visitor_ip>
+		<date_created>2009-04-09 11:27:17</date_created>
+		<date_updated>2009-04-13 08:39:32</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>123</tip_id>
+		<name_first>Anita</name_first>
+		<name_last>L</name_last>
+		<email>anita@anitamail.com</email>
+		<city>Waltham</city>
+		<state>MA</state>
+		<tip>Use cloth diapers instead of disposable,</tip>
+		<data>71984</data>
+		<visitor_ip>57.68.54.34</visitor_ip>
+		<date_created>2009-04-10 05:41:01</date_created>
+		<date_updated>2009-04-13 08:39:32</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>127</tip_id>
+		<name_first>Dave</name_first>
+		<name_last>R</name_last>
+		<email>drivera@responsys.com</email>
+		<city>San Jose</city>
+		<state>CA</state>
+		<tip>Take the day off so you don't have to drive to work :)</tip>
+		<data>85137</data>
+		<visitor_ip>65.118.118.2</visitor_ip>
+		<date_created>2009-04-10 06:55:16</date_created>
+		<date_updated>2009-04-13 08:39:32</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>128</tip_id>
+		<name_first>Jeff</name_first>
+		<name_last>L</name_last>
+		<email>jeffreyliberty@hotmail.com</email>
+		<city>Dorchester</city>
+		<state>MA</state>
+		<tip>Turn off lights when not in the room.</tip>
+		<data>49495</data>
+		<visitor_ip>57.68.54.34</visitor_ip>
+		<date_created>2009-04-10 06:58:50</date_created>
+		<date_updated>2009-04-13 08:39:32</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>131</tip_id>
+		<name_first>Chris</name_first>
+		<name_last>L</name_last>
+		<email />
+		<city>Bedford</city>
+		<state>MA</state>
+		<tip>Use a Sigg water bottle instead of plastic...it's cool and green.
+		</tip>
+		<data>44635</data>
+		<visitor_ip>57.68.54.34</visitor_ip>
+		<date_created>2009-04-10 10:49:04</date_created>
+		<date_updated>2009-04-13 08:39:32</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>132</tip_id>
+		<name_first>George</name_first>
+		<name_last>R</name_last>
+		<email />
+		<city>New York</city>
+		<state>NY</state>
+		<tip>I've stopped getting reciepts at starbucks... less paper.</tip>
+		<data>58078</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-10 13:44:03</date_created>
+		<date_updated>2009-04-13 08:39:32</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>135</tip_id>
+		<name_first>Carissa</name_first>
+		<name_last>E</name_last>
+		<email />
+		<city>Beaverton</city>
+		<state>OR</state>
+		<tip>When buying foods like yogurt or other foods, try getting it in the big tubs or packages instead of individual ones.</tip>
+		<data>68793</data>
+		<visitor_ip>74.107.144.250</visitor_ip>
+		<date_created>2009-04-11 10:14:31</date_created>
+		<date_updated>2009-04-13 08:39:32</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>136</tip_id>
+		<name_first>California</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>Brownsville</city>
+		<state>TX</state>
+		<tip>Whenever using make-up, use mineral make up. It relaxes your face and is better than putting harsh chemicals on your face.</tip>
+		<data>75204</data>
+		<visitor_ip>70.124.9.137</visitor_ip>
+		<date_created>2009-04-11 13:31:30</date_created>
+		<date_updated>2009-04-13 08:39:32</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>137</tip_id>
+		<name_first>Lydia</name_first>
+		<name_last>G</name_last>
+		<email />
+		<city>SH</city>
+		<state>NJ</state>
+		<tip>Spread the word! The best way to get everyone to go green is to talk about it.</tip>
+		<data>80923</data>
+		<visitor_ip>70.111.201.171</visitor_ip>
+		<date_created>2009-04-12 14:28:59</date_created>
+		<date_updated>2009-04-13 08:39:32</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>138</tip_id>
+		<name_first>Melissa</name_first>
+		<name_last>G</name_last>
+		<email />
+		<city>Humdedumdedum</city>
+		<state>TN</state>
+		<tip>Don't ever throw away leftovers. There's already enough trash in landfills, and food has feelings toooo you know. : )</tip>
+		<data>3556</data>
+		<visitor_ip>74.36.32.45</visitor_ip>
+		<date_created>2009-04-12 16:24:27</date_created>
+		<date_updated>2009-04-13 08:39:32</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>139</tip_id>
+		<name_first>Johnson</name_first>
+		<name_last>B</name_last>
+		<email />
+		<city>New York</city>
+		<state>NY</state>
+		<tip>Try to avoid rush hour. Driving in traffic burns more gas and increases pollutant emissions.</tip>
+		<data>51619</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-13 09:47:32</date_created>
+		<date_updated>2009-04-13 11:47:04</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>140</tip_id>
+		<name_first>Brittany</name_first>
+		<name_last>H</name_last>
+		<email>pinkpanther646@yahoo.com</email>
+		<city>Winter Park</city>
+		<state>FL</state>
+		<tip>Buy eco-friendly shoes,jewlery, or handbags instead!</tip>
+		<data>6918</data>
+		<visitor_ip>66.195.245.16</visitor_ip>
+		<date_created>2009-04-13 13:19:44</date_created>
+		<date_updated>2009-04-14 07:31:52</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>141</tip_id>
+		<name_first>Kate</name_first>
+		<name_last>H</name_last>
+		<email />
+		<city>Midlothian</city>
+		<state>TX</state>
+		<tip>Only shop GREEN. SPREAD THE WORD TO YOUR PEOPLES!!!!!!!!</tip>
+		<data>60753</data>
+		<visitor_ip>76.186.141.77</visitor_ip>
+		<date_created>2009-04-13 15:19:00</date_created>
+		<date_updated>2009-04-14 07:31:52</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>142</tip_id>
+		<name_first>Sam</name_first>
+		<name_last>Z</name_last>
+		<email />
+		<city>New York</city>
+		<state>NY</state>
+		<tip>Use paper not plastic, REUSE paper, and better yet, buy reusable cloth bags.</tip>
+		<data>59554</data>
+		<visitor_ip>66.171.76.140</visitor_ip>
+		<date_created>2009-04-14 07:22:36</date_created>
+		<date_updated>2009-04-14 07:31:52</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>143</tip_id>
+		<name_first>S</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>New York</city>
+		<state>NY</state>
+		<tip>When shaving at a sink, fill the bowl once and keep the running faucet off.</tip>
+		<data>85173</data>
+		<visitor_ip>66.171.76.140</visitor_ip>
+		<date_created>2009-04-14 07:27:42</date_created>
+		<date_updated>2009-04-14 07:31:52</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>144</tip_id>
+		<name_first>Jazmine </name_first>
+		<name_last>C</name_last>
+		<email>soccerhottie4lyfe@aim.com</email>
+		<city>Baltimore</city>
+		<state>MD</state>
+		<tip>Have a million plastic grocery bags? take them to a local walmart and they will recycle them for you!</tip>
+		<data>47439</data>
+		<visitor_ip>141.157.123.87</visitor_ip>
+		<date_created>2009-04-14 15:45:25</date_created>
+		<date_updated>2009-04-15 06:17:11</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>145</tip_id>
+		<name_first>liz</name_first>
+		<name_last>m</name_last>
+		<email />
+		<city>lLos Angeles</city>
+		<state>CA</state>
+		<tip>use cold water intead of hot water </tip>
+		<data>61453</data>
+		<visitor_ip>69.233.9.166</visitor_ip>
+		<date_created>2009-04-16 14:26:35</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>146</tip_id>
+		<name_first>Bethany</name_first>
+		<name_last>H</name_last>
+		<email />
+		<city>Reedsport</city>
+		<state>OR</state>
+		<tip>Invest in a reusable water bottle,then don't use plastic
+			ones.SIGGs are good ones</tip>
+		<data>28389</data>
+		<visitor_ip>71.161.5.229</visitor_ip>
+		<date_created>2009-04-16 16:30:49</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>147</tip_id>
+		<name_first>Brittani</name_first>
+		<name_last>Y</name_last>
+		<email>brittani.model.young@gmail.com</email>
+		<city>Virginia Beach</city>
+		<state>VA</state>
+		<tip>Leave a bowl outside so when it rains, you can use the rain water to water you plants instead of faucet water. :)</tip>
+		<data>22159</data>
+		<visitor_ip>98.183.151.123</visitor_ip>
+		<date_created>2009-04-17 06:52:43</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>149</tip_id>
+		<name_first>Monica</name_first>
+		<name_last>L</name_last>
+		<email />
+		<city>Los Angeles</city>
+		<state>CA</state>
+		<tip>Wash your clothes in cold water! It saves you $$$ AND the environment!</tip>
+		<data>68122</data>
+		<visitor_ip>96.51.221.243</visitor_ip>
+		<date_created>2009-04-19 21:58:53</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>150</tip_id>
+		<name_first>Jeff</name_first>
+		<name_last>M</name_last>
+		<email />
+		<city>Chicago</city>
+		<state>IL</state>
+		<tip>Tell restaurants you don't need forks or napkins when you order take-out.</tip>
+		<data>54571</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-21 08:08:39</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>151</tip_id>
+		<name_first>John</name_first>
+		<name_last>M</name_last>
+		<email />
+		<city>LA</city>
+		<state>CA</state>
+		<tip>Offset air travel by purchasing carbon credits. </tip>
+		<data>40541</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-21 08:27:59</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>152</tip_id>
+		<name_first>James</name_first>
+		<name_last>H</name_last>
+		<email />
+		<city>Spring Grove</city>
+		<state>IL</state>
+		<tip>Buy timeless products, you will be more likely to keep something that doesn't look dated.</tip>
+		<data>10407</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-21 08:31:11</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>153</tip_id>
+		<name_first>Steve</name_first>
+		<name_last>G</name_last>
+		<email />
+		<city>Clear Water</city>
+		<state>FL</state>
+		<tip>Put your reading chair near a window so you can read by natural light.</tip>
+		<data>61441</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-21 08:32:29</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>154</tip_id>
+		<name_first>Kathy</name_first>
+		<name_last>K</name_last>
+		<email />
+		<city>Cleveland</city>
+		<state>OH</state>
+		<tip>Lower your thermostat. Buy a programmable thermostat.</tip>
+		<data>25278</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-21 15:58:13</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>155</tip_id>
+		<name_first>May</name_first>
+		<name_last>T</name_last>
+		<email />
+		<city>Reno</city>
+		<state>NV</state>
+		<tip>Reuse your water bottle. Avoid buying bottled water. In fact, reuse everything at least once, especially plastics.</tip>
+		<data>41251</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-21 15:58:55</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>156</tip_id>
+		<name_first>Shane</name_first>
+		<name_last>B</name_last>
+		<email />
+		<city>Trenton</city>
+		<state>NJ</state>
+		<tip>Check out your bathroom. Use low-flow faucets, showerheads, and toilets.</tip>
+		<data>2525</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-21 16:00:00</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>157</tip_id>
+		<name_first>Veronica</name_first>
+		<name_last>L</name_last>
+		<email />
+		<city>San Francisco</city>
+		<state>CA</state>
+		<tip>Start a compost in your back yard or on your rooftop.</tip>
+		<data>49403</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-21 16:00:35</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>158</tip_id>
+		<name_first>Mimi</name_first>
+		<name_last>K</name_last>
+		<email />
+		<city>Detroit</city>
+		<state>MI</state>
+		<tip>Buy in season.</tip>
+		<data>70294</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-21 16:01:49</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>159</tip_id>
+		<name_first>Kelly</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>Harahan</city>
+		<state>LA</state>
+		<tip>Start a compost in your back yard or on your rooftop.</tip>
+		<data>27079</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-21 16:02:17</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>161</tip_id>
+		<name_first>Costanza</name_first>
+		<name_last>R</name_last>
+		<email />
+		<city>Houston</city>
+		<state>TX</state>
+		<tip>Recycle paper as well as plastic. And get small cars. Even better:hybrids</tip>
+		<data>5743</data>
+		<visitor_ip>67.187.18.133</visitor_ip>
+		<date_created>2009-04-22 07:24:11</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>162</tip_id>
+		<name_first>Yannick</name_first>
+		<name_last>H</name_last>
+		<email />
+		<city>Geneva</city>
+		<state>NY</state>
+		<tip>"The only way to get rid of a temptation is to yield to it." - Oscar Wilde</tip>
+		<data>17735</data>
+		<visitor_ip>84.74.168.82</visitor_ip>
+		<date_created>2009-04-22 08:50:14</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>163</tip_id>
+		<name_first>Sally </name_first>
+		<name_last>F</name_last>
+		<email />
+		<city>Fort Dodge</city>
+		<state>IA</state>
+		<tip>Unplug all of the electronic equipment that is not in use -all those digital clocks use unnecessary power.</tip>
+		<data>46809</data>
+		<visitor_ip>74.42.25.10</visitor_ip>
+		<date_created>2009-04-22 08:57:06</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>164</tip_id>
+		<name_first>MAkayla</name_first>
+		<name_last>D</name_last>
+		<email />
+		<city>Orem</city>
+		<state>UT</state>
+		<tip>At the end of the school year or work term, make sure you recycle all of your assingments and paper and plastic material.</tip>
+		<data>63538</data>
+		<visitor_ip>144.17.77.3</visitor_ip>
+		<date_created>2009-04-22 11:16:04</date_created>
+		<date_updated>2009-05-04 08:24:58</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>165</tip_id>
+		<name_first>Nero</name_first>
+		<name_last>B</name_last>
+		<email />
+		<city>Brooklyn</city>
+		<state>NY</state>
+		<tip>Shut off your computer and go outside.</tip>
+		<data>70377</data>
+		<visitor_ip>151.202.240.178</visitor_ip>
+		<date_created>2009-04-22 12:46:45</date_created>
+		<date_updated>2009-04-22 12:55:41</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>166</tip_id>
+		<name_first>Emily</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>Brooklyn</city>
+		<state>NY</state>
+		<tip>Use BAGGU reusable bags!</tip>
+		<data>59578</data>
+		<visitor_ip>173.77.105.252</visitor_ip>
+		<date_created>2009-04-22 12:59:35</date_created>
+		<date_updated>2009-04-23 09:18:36</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>167</tip_id>
+		<name_first>Wendy</name_first>
+		<name_last>K</name_last>
+		<email />
+		<city>Shelton</city>
+		<state>CT</state>
+		<tip>Unplug those cell phone charges when not in use!</tip>
+		<data>45467</data>
+		<visitor_ip>57.68.54.34</visitor_ip>
+		<date_created>2009-04-22 13:41:26</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>168</tip_id>
+		<name_first>Amy </name_first>
+		<name_last>V</name_last>
+		<email />
+		<city>San Francisco</city>
+		<state>CA</state>
+		<tip>i try to reuse my water bottles and plastic containers instead of throwing them out right away.</tip>
+		<data>42823</data>
+		<visitor_ip>68.63.95.68</visitor_ip>
+		<date_created>2009-04-22 17:56:30</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>169</tip_id>
+		<name_first>Evan</name_first>
+		<name_last>J</name_last>
+		<email />
+		<city>Carlsbad</city>
+		<state>CA</state>
+		<tip>if buying new appliances make sure efficiency is a priority. if you can buy electric hot water heater you will save.</tip>
+		<data>67772</data>
+		<visitor_ip>68.63.95.68</visitor_ip>
+		<date_created>2009-04-22 17:59:25</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>170</tip_id>
+		<name_first>ariana </name_first>
+		<name_last>s</name_last>
+		<email />
+		<city>riverside</city>
+		<state>CA</state>
+		<tip>Recycle everything and clean up any trash you see on the floor
+		</tip>
+		<data>44571</data>
+		<visitor_ip>76.90.69.169</visitor_ip>
+		<date_created>2009-04-22 19:10:47</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>171</tip_id>
+		<name_first>Rene </name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>St. Louis</city>
+		<state>MO</state>
+		<tip>Open your widows. You can avoid turning on your air conditioning, and air-out your house.</tip>
+		<data>56535</data>
+		<visitor_ip>99.178.249.143</visitor_ip>
+		<date_created>2009-04-22 19:23:54</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>172</tip_id>
+		<name_first>Amy</name_first>
+		<name_last>M</name_last>
+		<email>amy96@mac.com</email>
+		<city>Minneapolis</city>
+		<state>MN</state>
+		<tip>Skip the paper cup at your coffee shop and bring your own mug in!
+		</tip>
+		<data>18144</data>
+		<visitor_ip>12.50.8.130</visitor_ip>
+		<date_created>2009-04-22 21:24:35</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>173</tip_id>
+		<name_first>musiccraze1122</name_first>
+		<name_last>A</name_last>
+		<email />
+		<city>LA</city>
+		<state>CA</state>
+		<tip>You can save gas and stop polluting by ordering online.</tip>
+		<data>38607</data>
+		<visitor_ip>99.135.20.235</visitor_ip>
+		<date_created>2009-04-23 15:16:35</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>174</tip_id>
+		<name_first>Kim</name_first>
+		<name_last>T</name_last>
+		<email />
+		<city>Long Branch</city>
+		<state>NJ</state>
+		<tip>Don't sit idling your car if you don't need to. I wait to pick up my husband at the train and always turn off my car.</tip>
+		<data>32543</data>
+		<visitor_ip>72.43.164.66</visitor_ip>
+		<date_created>2009-04-24 07:10:18</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>175</tip_id>
+		<name_first>Missie</name_first>
+		<name_last>E</name_last>
+		<email />
+		<city>Berkeley</city>
+		<state>CA</state>
+		<tip>Buy in bulk to minimize paying for packaging. You get more bang for your buck AND avoid supporting excessive plastic!</tip>
+		<data>2546</data>
+		<visitor_ip>169.229.84.160</visitor_ip>
+		<date_created>2009-04-24 09:25:50</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>176</tip_id>
+		<name_first>Ariel</name_first>
+		<name_last>C</name_last>
+		<email />
+		<city>Honolulu</city>
+		<state>HI</state>
+		<tip>Keep from leaving your sprinklers on a long time, let them water your lawn or garden for a short period of time. </tip>
+		<data>45042</data>
+		<visitor_ip>67.49.160.29</visitor_ip>
+		<date_created>2009-04-26 01:56:59</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>177</tip_id>
+		<name_first>Ariel</name_first>
+		<name_last>C</name_last>
+		<email />
+		<city>Honolulu</city>
+		<state>HI</state>
+		<tip>Take shorter showers. Don't leave the water running while your putting shampoo in your hair!!</tip>
+		<data>72095</data>
+		<visitor_ip>67.49.160.29</visitor_ip>
+		<date_created>2009-04-26 01:57:54</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>178</tip_id>
+		<name_first>Kelly</name_first>
+		<name_last>W</name_last>
+		<email />
+		<city>Cupertino</city>
+		<state>CA</state>
+		<tip>Encourage your teachers to double-side handouts or post papers online instead of printing them out for every student.</tip>
+		<data>29576</data>
+		<visitor_ip>67.164.2.29</visitor_ip>
+		<date_created>2009-04-26 15:30:23</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>180</tip_id>
+		<name_first>MIchelle</name_first>
+		<name_last>C</name_last>
+		<email>vivimichelle191@sina.com</email>
+		<city>Chengdu</city>
+		<state>SC</state>
+		<tip>Save more water and earthGain more peaceful lifeGain more happiness!</tip>
+		<data>47037</data>
+		<visitor_ip>222.212.78.22</visitor_ip>
+		<date_created>2009-04-28 00:49:29</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>181</tip_id>
+		<name_first>Margaret</name_first>
+		<name_last>G</name_last>
+		<email />
+		<city>Somerville</city>
+		<state>MA</state>
+		<tip>When staying at a hotel/motel reuse the towels, ask housekeeping to not replace them everyday.  </tip>
+		<data>25498</data>
+		<visitor_ip>64.12.116.71</visitor_ip>
+		<date_created>2009-04-28 16:57:04</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>182</tip_id>
+		<name_first>Penelope</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>Charlotte </city>
+		<state>NC</state>
+		<tip>reuse containers- they can be used to take your lunch to work, or for storing leftovers-then recycle when they give out.</tip>
+		<data>84350</data>
+		<visitor_ip>168.190.200.208</visitor_ip>
+		<date_created>2009-04-29 08:26:41</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>183</tip_id>
+		<name_first>nadine</name_first>
+		<name_last>a</name_last>
+		<email />
+		<city>adamstown</city>
+		<state>PA</state>
+		<tip>Try to avoid purchasing anything made in China as they are the number one producer of greenhouse gases.  </tip>
+		<data>50000</data>
+		<visitor_ip>70.15.101.66</visitor_ip>
+		<date_created>2009-04-30 10:22:32</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>184</tip_id>
+		<name_first>Joe</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>San Diego</city>
+		<state>CA</state>
+		<tip>Install energy saving light bulbs that don't need a surge of energy to turn on. </tip>
+		<data>7840</data>
+		<visitor_ip>76.200.167.111</visitor_ip>
+		<date_created>2009-05-01 18:25:01</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>186</tip_id>
+		<name_first>Michele </name_first>
+		<name_last>A</name_last>
+		<email />
+		<city>Fort Worth </city>
+		<state>TX</state>
+		<tip>Use cloth napkins! Throw them in with the laundry you are already doing. Save: trees, bleach, energy and packaging!</tip>
+		<data>20657</data>
+		<visitor_ip>65.69.154.235</visitor_ip>
+		<date_created>2009-05-02 16:54:08</date_created>
+		<date_updated>2009-05-04 08:25:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>187</tip_id>
+		<name_first>Erin </name_first>
+		<name_last>K</name_last>
+		<email>PEACE_LUB_SMILE@yahoo.com</email>
+		<city>City of Trees XD</city>
+		<state>CA</state>
+		<tip>see what you can change in your everyday rountine to be more green. for example only use wat your really going to use. =D</tip>
+		<data>76623</data>
+		<visitor_ip>65.78.134.223</visitor_ip>
+		<date_created>2009-05-04 21:13:25</date_created>
+		<date_updated>2009-05-13 06:53:25</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>189</tip_id>
+		<name_first>nandi</name_first>
+		<name_last>c</name_last>
+		<email />
+		<city>elmhurst</city>
+		<state>NY</state>
+		<tip>use recyable water bottle instead of buying water bottle on your way/</tip>
+		<data>75130</data>
+		<visitor_ip>74.66.140.239</visitor_ip>
+		<date_created>2009-05-10 18:11:41</date_created>
+		<date_updated>2009-05-13 06:53:25</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>190</tip_id>
+		<name_first>Carol</name_first>
+		<name_last>C</name_last>
+		<email>m_udiva@yahoo.com</email>
+		<city>Huntington Woods</city>
+		<state>MI</state>
+		<tip>Unplug your phone charger between uses. Leaving a phone charger plugged in drains electricity. </tip>
+		<data>61006</data>
+		<visitor_ip>69.14.250.99</visitor_ip>
+		<date_created>2009-05-13 16:00:05</date_created>
+		<date_updated>2009-05-18 11:40:19</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>191</tip_id>
+		<name_first>Alyssa</name_first>
+		<name_last>M</name_last>
+		<email />
+		<city>Shreveport</city>
+		<state>LA</state>
+		<tip>Do good things for the environment :)</tip>
+		<data>31238</data>
+		<visitor_ip>74.245.117.154</visitor_ip>
+		<date_created>2009-05-13 20:16:31</date_created>
+		<date_updated>2009-05-18 11:40:19</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>192</tip_id>
+		<name_first>Madeleine</name_first>
+		<name_last>H</name_last>
+		<email />
+		<city>Worcester,</city>
+		<state>MA</state>
+		<tip>The best time of the day to water outdoors is either at sunrise or at sunset. This minimizes water evaporation.</tip>
+		<data>78102</data>
+		<visitor_ip>57.68.54.34</visitor_ip>
+		<date_created>2009-05-14 10:04:17</date_created>
+		<date_updated>2009-05-18 11:40:19</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>193</tip_id>
+		<name_first>Ann</name_first>
+		<name_last>F</name_last>
+		<email />
+		<city>Houston</city>
+		<state>TX</state>
+		<tip>Use a water efficient shower head. They reduce the amount of water you use and the shower is just as nice!!!</tip>
+		<data>11956</data>
+		<visitor_ip>98.198.90.133</visitor_ip>
+		<date_created>2009-05-15 19:44:15</date_created>
+		<date_updated>2009-05-18 11:40:19</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>194</tip_id>
+		<name_first>Patricia</name_first>
+		<name_last>M</name_last>
+		<email>mauch64@yahoo.com</email>
+		<city>Sapulpa</city>
+		<state>OK</state>
+		<tip>Let the sun shine in! It's bright and beautiful and free! Gotta love it!</tip>
+		<data>25741</data>
+		<visitor_ip>76.76.132.59</visitor_ip>
+		<date_created>2009-05-19 09:31:43</date_created>
+		<date_updated>2009-05-21 13:19:29</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>195</tip_id>
+		<name_first>Kate</name_first>
+		<name_last>D</name_last>
+		<email />
+		<city>Phila</city>
+		<state>PA</state>
+		<tip>Use your kids' art work as wrapping paper instead of buying it from the store!</tip>
+		<data>4358</data>
+		<visitor_ip>71.123.35.220</visitor_ip>
+		<date_created>2009-05-19 10:00:45</date_created>
+		<date_updated>2009-05-21 13:19:29</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>196</tip_id>
+		<name_first>adzua</name_first>
+		<name_last>r</name_last>
+		<email />
+		<city>new york</city>
+		<state>NY</state>
+		<tip>Reduce. Re-use. Recycle.</tip>
+		<data>57423</data>
+		<visitor_ip>96.239.52.44</visitor_ip>
+		<date_created>2009-05-21 12:00:53</date_created>
+		<date_updated>2009-05-21 13:19:29</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>197</tip_id>
+		<name_first>Stacey</name_first>
+		<name_last>R</name_last>
+		<email />
+		<city>Lexington</city>
+		<state>KY</state>
+		<tip>Buy house hold cleaning products that are enviroment friendly such as clorox's new green works collection! they work great.</tip>
+		<data>57784</data>
+		<visitor_ip>75.81.244.93</visitor_ip>
+		<date_created>2009-05-22 07:21:45</date_created>
+		<date_updated>2009-05-26 07:01:29</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>198</tip_id>
+		<name_first>Ali</name_first>
+		<name_last>C</name_last>
+		<email />
+		<city>Beach Park</city>
+		<state>IL</state>
+		<tip>ReCYclE!</tip>
+		<data>36347</data>
+		<visitor_ip>80.24.87.106</visitor_ip>
+		<date_created>2009-05-22 09:20:10</date_created>
+		<date_updated>2009-05-26 07:01:29</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>199</tip_id>
+		<name_first>Brittany</name_first>
+		<name_last>L</name_last>
+		<email />
+		<city>Muskegon</city>
+		<state>MI</state>
+		<tip>Live in a Go Green Apartment. Its worth the extra rent each month. : )</tip>
+		<data>51123</data>
+		<visitor_ip>71.115.174.209</visitor_ip>
+		<date_created>2009-05-22 23:36:21</date_created>
+		<date_updated>2009-05-26 07:01:29</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>200</tip_id>
+		<name_first>Erin</name_first>
+		<name_last>J</name_last>
+		<email>erm947@msn.com</email>
+		<city>Lincoln</city>
+		<state>NE</state>
+		<tip>Compost things so you don't have so much trash. </tip>
+		<data>76655</data>
+		<visitor_ip>97.87.75.23</visitor_ip>
+		<date_created>2009-05-23 12:27:14</date_created>
+		<date_updated>2009-05-26 07:01:29</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>201</tip_id>
+		<name_first>@Daniiiii</name_first>
+		<name_last>M</name_last>
+		<email />
+		<city>So Paulo BRazilll</city>
+		<state>IN</state>
+		<tip>I close the water tap while i'm brushing my teeth !</tip>
+		<data>62473</data>
+		<visitor_ip>187.46.87.65</visitor_ip>
+		<date_created>2009-05-23 12:28:11</date_created>
+		<date_updated>2009-05-26 07:01:29</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>202</tip_id>
+		<name_first>Molly Claire</name_first>
+		<name_last>M</name_last>
+		<email />
+		<city>Costa Mesa</city>
+		<state>CA</state>
+		<tip>We recylce our daily newspaper every Thursday :)and have a recycling basket in our living room!</tip>
+		<data>14797</data>
+		<visitor_ip>69.235.130.109</visitor_ip>
+		<date_created>2009-05-23 20:57:00</date_created>
+		<date_updated>2009-05-26 07:01:29</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>203</tip_id>
+		<name_first>Lauren</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>Poulsbo</city>
+		<state>WA</state>
+		<tip>Look to buy clothes in organic cotton. It has a nice feel and is good for the envirionment. Also, buy used books</tip>
+		<data>44833</data>
+		<visitor_ip>24.19.97.11</visitor_ip>
+		<date_created>2009-05-25 21:10:29</date_created>
+		<date_updated>2009-05-26 07:01:29</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>204</tip_id>
+		<name_first>Gigi</name_first>
+		<name_last>B</name_last>
+		<email>ladyg_218@hotmail.com</email>
+		<city>Orlando</city>
+		<state>FL</state>
+		<tip>Start by recycling at home. </tip>
+		<data>20787</data>
+		<visitor_ip>71.42.60.200</visitor_ip>
+		<date_created>2009-05-28 10:27:55</date_created>
+		<date_updated>2009-05-29 07:10:37</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>205</tip_id>
+		<name_first>Cassie</name_first>
+		<name_last>K</name_last>
+		<email />
+		<city>San Francisco </city>
+		<state>CA</state>
+		<tip>If and when you can, bike or walk to work</tip>
+		<data>75620</data>
+		<visitor_ip>99.185.246.195</visitor_ip>
+		<date_created>2009-05-28 12:12:06</date_created>
+		<date_updated>2009-05-29 07:10:37</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>206</tip_id>
+		<name_first>Girl</name_first>
+		<name_last>A</name_last>
+		<email />
+		<city>Guess</city>
+		<state>IL</state>
+		<tip>GO OUTSIDE!! You'll appreciate the environment so much more than if you sat inside. Do your best for our Earth!!</tip>
+		<data>1650</data>
+		<visitor_ip>75.57.133.241</visitor_ip>
+		<date_created>2009-05-28 16:44:04</date_created>
+		<date_updated>2009-05-29 07:10:37</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>207</tip_id>
+		<name_first>Green</name_first>
+		<name_last>L</name_last>
+		<email />
+		<city>Greenville</city>
+		<state>AK</state>
+		<tip>Try to use washable towels or rags instead of paper towels! </tip>
+		<data>86044</data>
+		<visitor_ip>216.195.129.206</visitor_ip>
+		<date_created>2009-05-30 13:52:52</date_created>
+		<date_updated>2009-06-08 06:41:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>208</tip_id>
+		<name_first>Gaby </name_first>
+		<name_last>V</name_last>
+		<email />
+		<city>San Francisco</city>
+		<state>CA</state>
+		<tip>Use energy saving light bulbs instead of using regular ones.
+		</tip>
+		<data>64034</data>
+		<visitor_ip>71.135.41.174</visitor_ip>
+		<date_created>2009-05-30 18:26:15</date_created>
+		<date_updated>2009-06-08 06:41:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>210</tip_id>
+		<name_first>Harshita</name_first>
+		<name_last>R</name_last>
+		<email />
+		<city>Hershey</city>
+		<state>PA</state>
+		<tip>Plastic or paper? NEITHER! Go for reusable canvas shopping bags!
+		</tip>
+		<data>43852</data>
+		<visitor_ip>68.32.20.73</visitor_ip>
+		<date_created>2009-05-31 19:10:40</date_created>
+		<date_updated>2009-06-08 06:41:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>213</tip_id>
+		<name_first>Jessica </name_first>
+		<name_last>E</name_last>
+		<email />
+		<city>Provo</city>
+		<state>UT</state>
+		<tip>Take showers INSTEAD of baths!</tip>
+		<data>43368</data>
+		<visitor_ip>69.169.165.59</visitor_ip>
+		<date_created>2009-06-01 13:15:51</date_created>
+		<date_updated>2009-06-08 06:43:33</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>214</tip_id>
+		<name_first>Edz</name_first>
+		<name_last>B</name_last>
+		<email>e_d_z_12@yahoo.com.ph</email>
+		<city>Toronto</city>
+		<state>CA</state>
+		<tip>Bike or walk - this saves the air from pollutants. Also, file the unused papers in your older notebooks to make newer ones.</tip>
+		<data>10949</data>
+		<visitor_ip>120.28.220.200</visitor_ip>
+		<date_created>2009-06-01 23:06:47</date_created>
+		<date_updated>2009-06-08 06:41:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>216</tip_id>
+		<name_first>Jalyn</name_first>
+		<name_last>W</name_last>
+		<email />
+		<city>Tucson</city>
+		<state>AZ</state>
+		<tip>Car pool! Save gas and enjoy the company of your friends all at the same time.</tip>
+		<data>10125</data>
+		<visitor_ip>69.244.41.222</visitor_ip>
+		<date_created>2009-06-03 13:28:33</date_created>
+		<date_updated>2009-06-08 06:41:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>217</tip_id>
+		<name_first>Pablo</name_first>
+		<name_last>d</name_last>
+		<email />
+		<city>San Francisco</city>
+		<state>CA</state>
+		<tip>Eat organic and local produce. Plant vegetables if possible; eat
+			more vegetables than meat. Buy in bulk and share with family</tip>
+		<data>62110</data>
+		<visitor_ip>75.18.171.248</visitor_ip>
+		<date_created>2009-06-03 22:22:58</date_created>
+		<date_updated>2009-06-08 06:43:33</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>218</tip_id>
+		<name_first>Bobo</name_first>
+		<name_last>J</name_last>
+		<email />
+		<city>Greensboro</city>
+		<state>NC</state>
+		<tip>Use a glass or a reusable bottle to drink water instead of buying a plastic one!</tip>
+		<data>79976</data>
+		<visitor_ip>68.34.72.174</visitor_ip>
+		<date_created>2009-06-05 11:00:02</date_created>
+		<date_updated>2009-06-08 06:41:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>219</tip_id>
+		<name_first>Janelle</name_first>
+		<name_last>B</name_last>
+		<email />
+		<city>Morris</city>
+		<state>IL</state>
+		<tip>Why don't we just do what we did in the old days? Bring your own sacks to the store, and reuse bottles on a regular basis. =D</tip>
+		<data>66478</data>
+		<visitor_ip>67.175.10.157</visitor_ip>
+		<date_created>2009-06-05 14:46:20</date_created>
+		<date_updated>2009-06-08 06:43:33</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>220</tip_id>
+		<name_first>Erika</name_first>
+		<name_last>C</name_last>
+		<email />
+		<city>Linho Portugal</city>
+		<state>NV</state>
+		<tip>Hang drying the laundry</tip>
+		<data>81313</data>
+		<visitor_ip>85.246.117.66</visitor_ip>
+		<date_created>2009-06-05 15:16:36</date_created>
+		<date_updated>2009-06-08 06:41:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>221</tip_id>
+		<name_first>emily</name_first>
+		<name_last>s</name_last>
+		<email />
+		<city>miami</city>
+		<state>FL</state>
+		<tip>Enjoy the comfort of fresh air!- Not always the TV</tip>
+		<data>75310</data>
+		<visitor_ip>69.142.88.92</visitor_ip>
+		<date_created>2009-06-05 18:22:42</date_created>
+		<date_updated>2009-06-08 06:43:33</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>222</tip_id>
+		<name_first>Kathy</name_first>
+		<name_last>B</name_last>
+		<email>krbaratta@cfl.rr.com</email>
+		<city>Orlando</city>
+		<state>FL</state>
+		<tip>Install Solar on your roof tops - govertment programs give you carbon credits for this! And it's a great savings on your ele</tip>
+		<data>31115</data>
+		<visitor_ip>71.43.68.245</visitor_ip>
+		<date_created>2009-06-06 10:40:41</date_created>
+		<date_updated>2009-06-16 10:54:59</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>223</tip_id>
+		<name_first>Kathy</name_first>
+		<name_last>B</name_last>
+		<email>krbaratta@cfl.rr.com</email>
+		<city>Orlando</city>
+		<state>FL</state>
+		<tip>Use Bio-Diesel that is made from used oil (like from restaurants). A GREAT way to recycle used oils!</tip>
+		<data>13686</data>
+		<visitor_ip>71.43.68.245</visitor_ip>
+		<date_created>2009-06-06 10:42:13</date_created>
+		<date_updated>2009-06-08 06:41:23</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>224</tip_id>
+		<name_first>Alana</name_first>
+		<name_last>W</name_last>
+		<email />
+		<city>Torremce</city>
+		<state>CA</state>
+		<tip>Compost, compost and compost and then it all goes into my lovely lasagna garden where I grow my vegetables and spices.</tip>
+		<data>14145</data>
+		<visitor_ip>142.161.23.25</visitor_ip>
+		<date_created>2009-06-06 12:24:58</date_created>
+		<date_updated>2009-06-08 06:44:29</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>225</tip_id>
+		<name_first>Paige</name_first>
+		<name_last>L</name_last>
+		<email />
+		<city>Chicago</city>
+		<state>IL</state>
+		<tip>When you are out shopping and are only buying a thing or two, tell the cashier that you don't want a bag.</tip>
+		<data>63766</data>
+		<visitor_ip>67.176.139.138</visitor_ip>
+		<date_created>2009-06-06 20:05:32</date_created>
+		<date_updated>2009-06-08 06:44:29</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>227</tip_id>
+		<name_first>Cassie</name_first>
+		<name_last>H</name_last>
+		<email />
+		<city>Harleysville</city>
+		<state>PA</state>
+		<tip>wash and reuse zip-lock bags and lunch baggies.</tip>
+		<data>44561</data>
+		<visitor_ip>71.175.186.173</visitor_ip>
+		<date_created>2009-06-08 20:01:01</date_created>
+		<date_updated>2009-06-16 10:54:59</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>228</tip_id>
+		<name_first>Sheyanne</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>Charles Town</city>
+		<state>WV</state>
+		<tip>Placing a bucket outside so it fills up with rainwater then using that to fill up my watering can instead of using the hose.</tip>
+		<data>34463</data>
+		<visitor_ip>98.233.185.56</visitor_ip>
+		<date_created>2009-06-09 09:09:40</date_created>
+		<date_updated>2009-06-16 10:54:59</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>229</tip_id>
+		<name_first>Kay</name_first>
+		<name_last>L</name_last>
+		<email>bklindq@nc.rr.com</email>
+		<city>Cary</city>
+		<state>NC</state>
+		<tip>Put mulch around plants, you will weed and water less.</tip>
+		<data>54131</data>
+		<visitor_ip>98.26.76.117</visitor_ip>
+		<date_created>2009-06-09 13:18:09</date_created>
+		<date_updated>2009-06-16 10:54:59</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>230</tip_id>
+		<name_first>Paige</name_first>
+		<name_last>H</name_last>
+		<email />
+		<city>Lebanon</city>
+		<state>IL</state>
+		<tip>During the summer when you aren't at home, turn up the thermostat a few degrees to save money and not waste so much energy</tip>
+		<data>16372</data>
+		<visitor_ip>76.216.122.80</visitor_ip>
+		<date_created>2009-06-09 16:07:35</date_created>
+		<date_updated>2009-06-16 10:54:59</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>231</tip_id>
+		<name_first>Paula</name_first>
+		<name_last>M</name_last>
+		<email>pbm109a@yahoo.com</email>
+		<city>New Orleans</city>
+		<state>LA</state>
+		<tip>When leaving your classroom always turn off the lights.</tip>
+		<data>1988</data>
+		<visitor_ip>74.170.142.208</visitor_ip>
+		<date_created>2009-06-09 18:02:49</date_created>
+		<date_updated>2009-06-16 10:54:59</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>233</tip_id>
+		<name_first>Ashley</name_first>
+		<name_last>P</name_last>
+		<email />
+		<city>Somewhere</city>
+		<state>AL</state>
+		<tip>when throwing away water bottles, unscrew the cap to allow the water inside to evaporate!</tip>
+		<data>38035</data>
+		<visitor_ip>98.197.170.191</visitor_ip>
+		<date_created>2009-06-13 15:49:47</date_created>
+		<date_updated>2009-06-16 10:54:59</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>235</tip_id>
+		<name_first>Nicole</name_first>
+		<name_last>D</name_last>
+		<email />
+		<city>New Zealand</city>
+		<state>AZ</state>
+		<tip>Try and get your local supermarket to charge for plastic bags, and donate money to local charities. </tip>
+		<data>59862</data>
+		<visitor_ip>222.154.175.10</visitor_ip>
+		<date_created>2009-06-16 19:49:18</date_created>
+		<date_updated>2009-06-22 07:02:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>236</tip_id>
+		<name_first>Mary</name_first>
+		<name_last>E</name_last>
+		<email />
+		<city>San Francisco</city>
+		<state>CA</state>
+		<tip>Always wait til you have a full load to do the washing.</tip>
+		<data>35398</data>
+		<visitor_ip>76.103.14.55</visitor_ip>
+		<date_created>2009-06-17 08:41:11</date_created>
+		<date_updated>2009-06-22 07:02:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>237</tip_id>
+		<name_first>Marlene</name_first>
+		<name_last>D</name_last>
+		<email />
+		<city>Frankfurt</city>
+		<state>CA</state>
+		<tip>TAKE YOUR BIKE!!</tip>
+		<data>79676</data>
+		<visitor_ip>92.205.83.206</visitor_ip>
+		<date_created>2009-06-17 11:47:13</date_created>
+		<date_updated>2009-06-22 07:02:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>240</tip_id>
+		<name_first>BOB</name_first>
+		<name_last>S</name_last>
+		<email />
+		<city>NYC</city>
+		<state>FL</state>
+		<tip>Turn off lights when leaving the room!!!!! please. :-)</tip>
+		<data>6386</data>
+		<visitor_ip>89.168.164.125</visitor_ip>
+		<date_created>2009-06-20 10:31:27</date_created>
+		<date_updated>2009-06-22 07:02:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>241</tip_id>
+		<name_first>LaiElle</name_first>
+		<name_last>W</name_last>
+		<email>Msgoldencheetah@yahoo.com</email>
+		<city>Bronx</city>
+		<state>NY</state>
+		<tip>Try to keep showers as short as possible ! And while you brush your teeth or wash up, make sure you turn off the faucet:)</tip>
+		<data>80394</data>
+		<visitor_ip>68.199.200.88</visitor_ip>
+		<date_created>2009-06-20 18:07:17</date_created>
+		<date_updated>2009-06-22 07:02:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>242</tip_id>
+		<name_first>Sadie </name_first>
+		<name_last>G</name_last>
+		<email />
+		<city>North Andover</city>
+		<state>MA</state>
+		<tip>Check for the recycling symbol before tossing something you think is trash, it can most likely be recycled!</tip>
+		<data>14950</data>
+		<visitor_ip>98.110.239.244</visitor_ip>
+		<date_created>2009-06-21 12:45:34</date_created>
+		<date_updated>2009-06-22 07:02:18</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>243</tip_id>
+		<name_first>Jules</name_first>
+		<name_last>I</name_last>
+		<email />
+		<city>Rexburg</city>
+		<state>ID</state>
+		<tip>Plant your own veggies. Better yet, start a community garden.
+		</tip>
+		<data>10162</data>
+		<visitor_ip>69.92.67.186</visitor_ip>
+		<date_created>2009-06-22 08:33:42</date_created>
+		<date_updated>2009-06-30 08:56:52</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>244</tip_id>
+		<name_first>Angela</name_first>
+		<name_last>A</name_last>
+		<email>abaff35@aol.com</email>
+		<city>Yeadon</city>
+		<state>PA</state>
+		<tip>use water from a dehumidifier to water plants and use cloth towels instead of paper</tip>
+		<data>79031</data>
+		<visitor_ip>64.12.116.71</visitor_ip>
+		<date_created>2009-06-23 12:08:00</date_created>
+		<date_updated>2009-06-30 08:56:52</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>245</tip_id>
+		<name_first>Kaylee</name_first>
+		<name_last>B</name_last>
+		<email />
+		<city>Lutz</city>
+		<state>FL</state>
+		<tip>Turn off your lights when you leave a room!It saves you money and helps the enviorment!!!!</tip>
+		<data>32042</data>
+		<visitor_ip>72.77.253.8</visitor_ip>
+		<date_created>2009-06-25 12:20:39</date_created>
+		<date_updated>2009-06-30 08:56:52</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>246</tip_id>
+		<name_first>Beth </name_first>
+		<name_last>P</name_last>
+		<email />
+		<city>Orlando </city>
+		<state>FL</state>
+		<tip>Caught up with recycling? Try Pre-cycling instead. Skip the plastic bags and water bottles all together. Invest in reusable.
+		</tip>
+		<data>8636</data>
+		<visitor_ip>132.170.163.24</visitor_ip>
+		<date_created>2009-06-26 09:59:25</date_created>
+		<date_updated>2009-06-30 08:56:52</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>247</tip_id>
+		<name_first>Anonymous</name_first>
+		<name_last>K</name_last>
+		<email />
+		<city>Berkeley</city>
+		<state>CA</state>
+		<tip>Take your refillable water bottle with you when you go outdoors.
+		</tip>
+		<data>54950</data>
+		<visitor_ip>125.27.81.10</visitor_ip>
+		<date_created>2009-06-30 00:52:06</date_created>
+		<date_updated>2009-06-30 08:56:52</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>248</tip_id>
+		<name_first>Lisa </name_first>
+		<name_last>A</name_last>
+		<email>phishlmz@yahoo.com</email>
+		<city>Macomb Township</city>
+		<state>MI</state>
+		<tip>I take my own carry out container when I go out to eat. This way I don't have to use the styrofome.</tip>
+		<data>28510</data>
+		<visitor_ip>68.43.195.158</visitor_ip>
+		<date_created>2009-06-30 06:45:34</date_created>
+		<date_updated>2009-06-30 08:56:52</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>251</tip_id>
+		<name_first>clare</name_first>
+		<name_last>m</name_last>
+		<email>clare_meridew@grey.net</email>
+		<city>toronto</city>
+		<state>MO</state>
+		<tip>use amonia free dishwashing detergent. not only is it safer for the environment, it is also safer for small children</tip>
+		<data>42309</data>
+		<visitor_ip>64.231.19.203</visitor_ip>
+		<date_created>2009-07-19 18:16:41</date_created>
+		<date_updated>2009-07-28 12:53:39</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>252</tip_id>
+		<name_first>Alisha</name_first>
+		<name_last>J</name_last>
+		<email>Alisha18Johnson@aol.com</email>
+		<city>Monte Rio</city>
+		<state>CA</state>
+		<tip>If everyone took a five minute shower instead of a thirty minute one it would save thousands of gallons of water.</tip>
+		<data>53047</data>
+		<visitor_ip>68.127.26.12</visitor_ip>
+		<date_created>2009-07-23 10:11:56</date_created>
+		<date_updated>2009-07-28 12:53:39</date_updated>
+		<status>1</status>
+	</array_item>
+	<array_item>
+		<tip_id>254</tip_id>
+		<name_first>Dora</name_first>
+		<name_last>O</name_last>
+		<email />
+		<city>Los Angeles</city>
+		<state>CA</state>
+		<tip>Unplug your cell phone chargers when your not using them. They waste energy even without a phone attached to them. :-D</tip>
+		<data>43097</data>
+		<visitor_ip>76.170.19.77</visitor_ip>
+		<date_created>2009-07-23 21:54:13</date_created>
+		<date_updated>2009-07-28 12:53:39</date_updated>
+		<status>1</status>
+	</array_item>
+</root>

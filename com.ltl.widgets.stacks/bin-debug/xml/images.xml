@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stack>
+	<preview>stackOnePreview.jpg</preview>
+	<stackActive>arrow.png</stackActive>
+	<stack>
+		<thumb>thumb00.jpg</thumb>
+		<source>img00.jpg</source>
+	</stack>
+	<stack>
+		<thumb>thumb01.jpg</thumb>
+		<source>img01.jpg</source>
+	</stack>
+	<stack>
+		<thumb>thumb02.jpg</thumb>
+		<source>img02.jpg</source>
+	</stack>
+	<stack>
+		<thumb>thumb03.jpg</thumb>
+		<source>img03.jpg</source>
+	</stack>
+	<stack>
+		<thumb>thumb04.jpg</thumb>
+		<source>img04.jpg</source>
+	</stack>
+	<stack>
+		<thumb>thumb05.jpg</thumb>
+		<source>img05.jpg</source>
+	</stack>
+</stack>

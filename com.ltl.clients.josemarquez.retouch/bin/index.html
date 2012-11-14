@@ -1,0 +1,57 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <head>
+        <title>Jose Marquez Retouching</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+        <script type="text/javascript" src="./js/swfobject.js">
+        </script>
+        
+        <style type="text/css">
+			
+			html,body{
+				padding:0;
+				margin:0;
+			 	background-color:#5E5E5E;
+			}
+
+		#flashContainer{
+			top: 0px;
+			left: 0px;
+			height: 100%;
+			width: 100%;
+		}
+
+        </style>
+        
+
+    </head>
+    <body>
+   	<div id="flashContainer">	
+        <div id="flash">
+		</div>
+	</div>	
+    </body>
+          <script type="text/javascript">
+            
+           		var flashVars = {};
+            	flashVars.skins = "./swf/skins/skins.swf";
+            	flashVars.fashion_xml_url = "./xml/fashion_beauty.xml";
+            	flashVars.objects_xml_url = "./xml/objects.xml";
+            	flashVars.large_img_dir = "./img/large/";            
+            	flashVars.thumb_img_dir = "./img/thumb/";            
+            	flashVars.img_dir = "./img/";            
+            	flashVars.info_img = "contacts.png";            
+
+            	flashVars.fashion_dir = "./img/fashion/";            
+            	flashVars.objects_dir = "./img/objects/";            
+            
+            	var params = {};
+				params.menu = "false";
+				params.bgcolor = "#000000";
+				params.wmode = "transparent";
+				params.scale = "noScale";
+				params.allowscriptaccess = "always";
+				params.allowfullscreen = "false";
+
+				swfobject.embedSWF("./swf/main.swf" + "?" + new Date().getTime(), "flash", "100%", "100%", "9.0.0", "expressInstall.swf", flashVars);
+		 </script>
+</html>

@@ -1,0 +1,135 @@
+﻿move_forward_metastatic_300x250.swf Movie Report
+-------------------------------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+       816    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS5</xmp:CreatorTool> <xmp:CreateDate>2010-08-18T10:01:12-04:00</xmp:CreateDate> <xmp:MetadataDate>2010-08-24T17:51:16-04:00</xmp:MetadataDate> <xmp:ModifyDate>2010-08-24T17:51:16-04:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:B71FE6EB7B2068118083E344818BC27E</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:B71FE6EB7B2068118083E344818BC27E</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:01801174072068118C14D77ACEA88F61</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:CA6B1C59712068118083E344818BC27E</stRef:instanceID> <stRef:documentID>xmp.did:F77F1174072068118083E344818BC27E</stRef:documentID> <stRef:originalDocumentID>xmp.did:01801174072068118C14D77ACEA88F61</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          29664          29664    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                  5503
+
+Symbol                  Shape Bytes    Text Bytes    ActionScript Bytes
+--------------------    -----------    ----------    ------------------
+Symbol 37                         0            36                     0
+arrow_base                       24             0                     0
+arrow_right                       0             0                     0
+Tween 2                           0             0                     0
+Tween 1                          24             0                     0
+arrow_left                       24             0                     0
+advice_txt_mc                     0            47                     0
+arrow                             0             0                     0
+arrow_body                       72             0                     0
+arrow_head                       94             0                     0
+Advice_MC                         0             0                     0
+bubble_mc                      3235             0                     0
+bottom                            0            47                     0
+<Group>_1                       123             0                     0
+<Group>                         123             0                     0
+Background_MC                     0             0                     0
+inner_bg                         22             0                     0
+Blue_Arrow_MC                     0             0                     0
+<Clip Group 0>_1                 55             0                     0
+<Clip Group 0>                   58             0                     0
+copy                              0             0                     0
+email_art_mc                   4091             0                     0
+emails_mc                       231             0                     0
+Email_MC                          0             0                     0
+information_mc                    0            70                     0
+Yellow_Arrow_MC                   0             0                     0
+Green_Dot_MC                     46             0                     0
+Symbol 1                         52             0                     0
+heart_art_mc                   4398             0                     0
+hit                              44             0                     0
+Handle                           53             0                     0
+Heart_MC                          0             0                     0
+support_txt_mc                    0            62                     0
+intro_pills_top_copy              0           121                     0
+Move_Forward_Blue_MC              0             0                     0
+Symbol 35                        60             0                     0
+Symbol 34                        37             0                     0
+Symbol 33                        77             0                     0
+Symbol 32                        41             0                     0
+Symbol 31                         0             0                     0
+Symbol 30                        57             0                     0
+Symbol 29                        44             0                     0
+Symbol 28                        63             0                     0
+Symbol 27                        29             0                     0
+Symbol 26                         0             0                     0
+Symbol 25                        41             0                     0
+Move_Forward_MC                   0            47                     0
+pills                             0             0                     0
+Pills_Final_MC                    0             0                     0
+Symbol 2                          0            77                     0
+Pills_Intro_MC                    0             0                     0
+Pull_MC                         161             0                     0
+inner                            49             0                     0
+ring                            111             0                     0
+Ring_MC                           0             0                     0
+Symbol 3                          0             0                     0
+Symbol 4                          0             0                     0
+Symbol 5                          0             0                     0
+Symbol 6                          0             0                     0
+Symbol 7                          0             0                     0
+Symbol 8                          0             0                     0
+Symbol 9                          0             0                     0
+Symbol 10                         0             0                     0
+Symbol 11                         0             0                     0
+Symbol 12                         0             0                     0
+Symbol 13                         0             0                     0
+Symbol 14                         0             0                     0
+Symbol 15                         0             0                     0
+Symbol 16                         0             0                     0
+Symbol 17                         0             0                     0
+Symbol 18                         0             0                     0
+Symbol 19                         0             0                     0
+Symbol 20                         0             0                     0
+Symbol 21                         0             0                     0
+Symbol 22                         0             0                     0
+Symbol 23                         0             0                     0
+Symbol 24                         0             0                     0
+Symbol 36                         0             0                     0
+Take_Control_MC                   0            45                     0
+Track                            47             0                     0
+Yellow_Arrow                      0             0                     0
+Yellow_Dot_MC                    46             0                     0
+
+Font Name                                Bytes         Characters
+-------------------------------------    ----------    ----------
+HelveticaNeue-Roman                             649     ACEKLNORT
+Handwriting-Dakota                              423    lpu
+HelveticaNeue-MediumCondObl Italic             1551     ABCMacefhilmnoprsty
+HelveticaNeue-BoldCondObl Bold Italic          1976     AEFIMSTYabcdefghilmnoprstuvwx
+
+ActionScript Bytes    Location
+------------------    --------
+               321    Scene 1:Frame 1:Advice_MC
+               289    Scene 1:Frame 1:Background_MC
+               292    Scene 1:Frame 1:Blue_Arrow_MC
+               323    Scene 1:Frame 1:Email_MC
+               288    Scene 1:Frame 1:Green_Dot_MC
+               317    Scene 1:Frame 1:Heart_MC
+               466    Scene 1:Frame 1:Move_Forward_Blue_MC
+               292    Scene 1:Frame 1:Move_Forward_MC
+               414    Scene 1:Frame 1:Pills_Final_MC
+               329    Scene 1:Frame 1:Pills_Intro_MC
+               428    Scene 1:Frame 1:Pull_MC
+               389    Scene 1:Frame 1:Ring_MC
+               325    Scene 1:Frame 1:Take_Control_MC
+               304    Scene 1:Frame 1:Yellow_Arrow
+               289    Scene 1:Frame 1:Yellow_Dot_MC
+               437    Scene 1:Frame 1:move_forward_metastatic_300x250_fla.MainTimeline
+
+Bitmap       Compressed    Original      Compression
+---------    ----------    ----------    -----------
+pills.png          1923         27848    JPEG Quality=80
+
+
+
+

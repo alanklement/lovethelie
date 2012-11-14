@@ -1,0 +1,29 @@
+IPARIGRAFIKA PAGEFLIP V3.6 - 10 user/website/offline media - LICENSE AGREEMENT
+
+License Agreement
+
+This developer's software license ("License") contains rights and restrictions associated with the use of the accompanying Iparigrafika Pageflip software ("Software") and its source files ("Source Files"). The Software includes the binary code, associated media and any sample files. The Source Files includes all the source files for the Software.
+
+By downloading an electronic copy containing the Software and the Source Files, you ("You" or "User") are indicating your acceptance of the terms, conditions, and disclaimers set forth in this agreement ("Agreement"). Written assent is not a prerequisite to the validity or enforceability of this Agreement.
+
+Grant of License
+
+Software Internal Use and Development License Grant. Subject to the terms and conditions of this Agreement. Iparigrafika Ltd. grants you a non-exclusive, non-transferable, limited license to reproduce internally and use internally the Software complete for the purpose of value-add integration when designing, developing, and testing.
+
+License to Distribute Software. Subject to the terms and conditions of this Agreement. Iparigrafika Ltd. grants you a non-exclusive, non-transferable, limited license without fees to reproduce and distribute the Software for up to 10 users or websites or offline media, provided that 
+
+(I) you distribute the Software complete without Source Files and only bundled or integrated as part of a website or an offline or online multimedia application, 
+
+(II) you only distribute the Software subject to a license agreement that protects Iparigrafika Ltd's interests consistent with the terms contained in this Agreement, and 
+
+(III) you agree to defend and indemnify Iparigrafika Ltd. from and against any damages, costs, liabilities, settlement amounts and/or expenses (including attorneys' fees) incurred in connection with any claim, lawsuit or action by any third party that arises or results from the use or distribution of the Software.
+
+Restrictions
+
+Software and Source Files are confidential and copyrighted. Title to Software, Source Files and all associated intellectual property rights are retained by Iparigrafika Ltd. No right, title or interest in or to any trademark, service mark, logo or trade name of Iparigrafika Ltd. are granted under this Agreement.
+
+This Agreement expressly prohibits the (commercial, public or private) distribution or display of Source Files in an indexed library or collection of code, or any use (commercial, public or private) that distributes or displays Source Files for purposes of providing a central source of code for others' use.
+
+Copyright Notice
+
+Software Copyright (c) 2010 Iparigrafika Ltd. Hunyadi Janos ut 4-8, Budapest, 1011 Hungary. All rights reserved.

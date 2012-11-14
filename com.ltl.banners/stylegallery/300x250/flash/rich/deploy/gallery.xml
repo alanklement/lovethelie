@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<user_id>21</user_id>
+		<user_img>http://stylegallery.s3.amazonaws.com/banners/300x250/JonathanCurtis.jpg</user_img>
+		<user_name>JonathanCurtis</user_name>
+		<shoe_img>http://stylegallery.s3.amazonaws.com/banners/300x250/Shoes/mens_navy_canvas.jpg</shoe_img>
+		<shoe_name>Men's Champion Navy Canvas</shoe_name>
+		<shoe_price><![CDATA[]]></shoe_price>
+		<shoe_link><![CDATA[http://www.keds.com/coupon.jsp?code=09_10_15+STYLE+GALLERY+PAGE&URL=%2Fshopping%2Fproduct%2Fdetailmain.jsp%3FitemID%3D1561%26itemType%3DPRODUCT%26iMainCat%3D289%26iSubCat%3D294%26iProductID%3D1561]]></shoe_link>
+	</user>	
+	<user>
+		<user_id>1</user_id>
+		<user_img>http://stylegallery.s3.amazonaws.com/banners/300x250/adelejoanna.jpg</user_img>
+		<user_name>adelejoanna</user_name>
+		<shoe_img>http://stylegallery.s3.amazonaws.com/banners/300x250/Shoes/white_canvas.jpg</shoe_img>
+		<shoe_name>Champion White Canvas</shoe_name>
+		<shoe_price><![CDATA[]]></shoe_price>
+		<shoe_link><![CDATA[http://www.keds.com/coupon.jsp?code=09_10_15+STYLE+GALLERY+PAGE&URL=%2Fjump.jsp%3FitemID%3D591%26itemType%3DPRODUCT]]></shoe_link>
+	</user>
+	<user>
+		<user_id>23</user_id>
+		<user_img>http://stylegallery.s3.amazonaws.com/banners/300x250/Lady_Carmen.jpg</user_img>
+		<user_name>Lady_Carmen</user_name>
+		<shoe_img>http://stylegallery.s3.amazonaws.com/banners/300x250/Shoes/black_canvas.jpg</shoe_img>
+		<shoe_name>Champion Black Canvas</shoe_name>
+		<shoe_price><![CDATA[]]></shoe_price>
+		<shoe_link><![CDATA[http://www.keds.com/coupon.jsp?code=09_10_15+STYLE+GALLERY+PAGE&URL=%2Fshopping%2Fproduct%2Fdetailmain.jsp%3FitemID%3D1560%26itemType%3DPRODUCT%26iMainCat%3D289%26iSubCat%3D294%26iProductID%3D1560]]></shoe_link>
+	</user>	
+	<user>
+		<user_id>17</user_id>
+		<user_img>http://stylegallery.s3.amazonaws.com/banners/300x250/Gboy.jpg</user_img>
+		<user_name>Gboy</user_name>
+		<shoe_img>http://stylegallery.s3.amazonaws.com/banners/300x250/Shoes/mens_black_canvas.jpg</shoe_img>
+		<shoe_name>Men's Champion Black Canvas</shoe_name>
+		<shoe_price><![CDATA[]]></shoe_price>
+		<shoe_link>http://www.keds.com/coupon.jsp?code=09_10_15+STYLE+GALLERY+PAGE&URL=%2Fshopping%2Fproduct%2Fdetailmain.jsp%3FitemID%3D1520%26itemType%3DPRODUCT%26iMainCat%3D220%26iSubCat%3D221%26iProductID%3D1520</shoe_link>
+	</user>	
+	<user>
+		<user_id>63</user_id>
+		<user_img>http://stylegallery.s3.amazonaws.com/banners/300x250/karenstarr.jpg</user_img>
+		<user_name>karenstarr</user_name>
+		<shoe_img>http://stylegallery.s3.amazonaws.com/banners/300x250/Shoes/white_canvas.jpg</shoe_img>
+		<shoe_name>Champion White Canvas</shoe_name>
+		<shoe_price><![CDATA[]]></shoe_price>
+		<shoe_link><![CDATA[http://www.keds.com/coupon.jsp?code=09_10_15+STYLE+GALLERY+PAGE&URL=%2Fjump.jsp%3FitemID%3D591%26itemType%3DPRODUCT]]></shoe_link>
+	</user>	
+	<user>
+		<user_id>3</user_id>
+		<user_img>http://stylegallery.s3.amazonaws.com/banners/300x250/BrittaniJoy.jpg</user_img>
+		<user_name>BrittaniJoy</user_name>
+		<shoe_img>http://stylegallery.s3.amazonaws.com/banners/300x250/Shoes/black_black_canvas.jpg</shoe_img>
+		<shoe_name>Champion Black Black Canvas</shoe_name>
+		<shoe_price><![CDATA[]]></shoe_price>
+		<shoe_link>http://www.keds.com/coupon.jsp?code=09_10_15+STYLE+GALLERY+PAGE&URL=%2Fshopping%2Fproduct%2Fdetailmain.jsp%3FitemID%3D1563%26itemType%3DPRODUCT%26iMainCat%3D289%26iSubCat%3D294%26iProductID%3D1563</shoe_link>
+	</user>
+		<user>
+		<user_id>14</user_id>
+		<user_img>http://stylegallery.s3.amazonaws.com/banners/300x250/fashionchalet.jpg</user_img>
+		<user_name>fashionchalet</user_name>
+		<shoe_img>http://stylegallery.s3.amazonaws.com/banners/300x250/Shoes/navy_canvas.jpg</shoe_img>
+		<shoe_name>Champion Navy Canvas</shoe_name>
+		<shoe_price><![CDATA[]]></shoe_price>
+		<shoe_link><![CDATA[http://www.keds.com/coupon.jsp?code=09_10_15+STYLE+GALLERY+PAGE&URL=%2Fshopping%2Fproduct%2Fdetailmain.jsp%3FitemID%3D1561%26itemType%3DPRODUCT%26iMainCat%3D289%26iSubCat%3D294%26iProductID%3D1561]]></shoe_link>
+	</user>	
+	<user>
+		<user_id>8</user_id>
+		<user_img>http://stylegallery.s3.amazonaws.com/banners/300x250/charlotteelizabeth.jpg</user_img>
+		<user_name>charlotteelizabeth</user_name>
+		<shoe_img>http://stylegallery.s3.amazonaws.com/banners/300x250/Shoes/white_canvas.jpg</shoe_img>
+		<shoe_name>Champion White Canvas</shoe_name>
+		<shoe_price><![CDATA[]]></shoe_price>
+		<shoe_link><![CDATA[http://www.keds.com/coupon.jsp?code=09_10_15+STYLE+GALLERY+PAGE&URL=%2Fjump.jsp%3FitemID%3D591%26itemType%3DPRODUCT]]></shoe_link>
+	</user>	
+	<user>
+		<user_id>10</user_id>
+		<user_img>http://stylegallery.s3.amazonaws.com/banners/300x250/daniellee385.jpg</user_img>
+		<user_name>daniellee385</user_name>
+		<shoe_img>http://stylegallery.s3.amazonaws.com/banners/300x250/Shoes/navy_canvas.jpg</shoe_img>
+		<shoe_name>Champion Navy Canvas</shoe_name>
+		<shoe_price><![CDATA[]]></shoe_price>
+		<shoe_link>http://www.keds.com/coupon.jsp?code=09_10_15+STYLE+GALLERY+PAGE&URL=%2Fshopping%2Fproduct%2Fdetailmain.jsp%3FitemID%3D1561%26itemType%3DPRODUCT%26iMainCat%3D289%26iSubCat%3D294%26iProductID%3D1561</shoe_link>
+	</user>	
+	<user>
+		<user_id>9</user_id>
+		<user_img>http://stylegallery.s3.amazonaws.com/banners/300x250/ClaireB.jpg</user_img>
+		<user_name>ClaireB</user_name>
+		<shoe_img>http://stylegallery.s3.amazonaws.com/banners/300x250/Shoes/white_canvas.jpg</shoe_img>
+		<shoe_name>Champion White Canvas</shoe_name>
+		<shoe_price><![CDATA[]]></shoe_price>
+		<shoe_link><![CDATA[http://www.keds.com/coupon.jsp?code=09_10_15+STYLE+GALLERY+PAGE&URL=%2Fjump.jsp%3FitemID%3D591%26itemType%3DPRODUCT]]></shoe_link>
+	</user>		
+	<user>
+		<user_id>5</user_id>
+		<user_img>http://stylegallery.s3.amazonaws.com/banners/300x250/celiabedelia.jpg</user_img>
+		<user_name>celiabedelia</user_name>
+		<shoe_img>http://stylegallery.s3.amazonaws.com/banners/300x250/Shoes/red_canvas.jpg</shoe_img>
+		<shoe_name>Champion Red Canvas</shoe_name>
+		<shoe_price><![CDATA[]]></shoe_price>
+		<shoe_link>http://www.keds.com/coupon.jsp?code=09_10_15+STYLE+GALLERY+PAGE&URL=%2Fshopping%2Fproduct%2Fdetailmain.jsp%3FitemID%3D1559%26itemType%3DPRODUCT%26iMainCat%3D289%26iSubCat%3D294%26iProductID%3D1559</shoe_link>
+	</user>	
+	<user>
+		<user_id>4</user_id>
+		<user_img>http://stylegallery.s3.amazonaws.com/banners/300x250/BUI.jpg</user_img>
+		<user_name>BUI</user_name>
+		<shoe_img>http://stylegallery.s3.amazonaws.com/banners/300x250/Shoes/white_canvas.jpg</shoe_img>
+		<shoe_name>Champion White Canvas</shoe_name>
+		<shoe_price><![CDATA[]]></shoe_price>
+		<shoe_link><![CDATA[http://www.keds.com/coupon.jsp?code=09_10_15+STYLE+GALLERY+PAGE&URL=%2Fjump.jsp%3FitemID%3D591%26itemType%3DPRODUCT]]></shoe_link>
+	</user>	
+</users>
+

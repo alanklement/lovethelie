@@ -1,0 +1,31 @@
+﻿new_parent.swf Movie Report
+----------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+       693    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS5</xmp:CreatorTool> <xmp:CreateDate>2010-09-12T15:03:11-04:00</xmp:CreateDate> <xmp:MetadataDate>2010-09-12T15:36:57-04:00</xmp:MetadataDate> <xmp:ModifyDate>2010-09-12T15:36:57-04:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:4A903AB00A2068118083A50FE60A0E06</stRef:instanceID> <stRef:documentID>xmp.did:F77F1174072068118083A50FE60A0E06</stRef:documentID> <stRef:originalDocumentID>xmp.did:F77F1174072068118083A50FE60A0E06</stRef:originalDocumentID> </xmpMM:DerivedFrom> <xmpMM:DocumentID>xmp.did:4E903AB00A2068118083A50FE60A0E06</xmpMM:DocumentID> <xmpMM:InstanceID>xmp.iid:4E903AB00A2068118083A50FE60A0E06</xmpMM:InstanceID> <xmpMM:OriginalDocumentID>xmp.did:F77F1174072068118083A50FE60A0E06</xmpMM:OriginalDocumentID> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          21949          21949    Scene 1 (AS 3.0 Classes Export Frame)
+      2              1          21950    
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                 21040
+
+Symbol                                                              Shape Bytes    Text Bytes    ActionScript Bytes
+----------------------------------------------------------------    -----------    ----------    ------------------
+com.doubleclick.studio.polite.PoliteDownload                                 17             0                     0
+com.doubleclick.studio.expanding.ExpandingComponent dependency 1             17             0                     0
+com.doubleclick.studio.expanding.ExpandingComponent                           0             0                     0
+
+ActionScript Bytes    Location
+------------------    --------
+             21040    Scene 1:Frame 1
+
+
+
+

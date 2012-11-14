@@ -1,0 +1,158 @@
+banner.swf Movie Report
+------------------------
+
+Metadata
+--------
+Bytes    Value
+-----    -----
+  959    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash CS4 Professional</xmp:CreatorTool> <xmp:CreateDate>2009-11-11T17:13:44-05:00</xmp:CreateDate> <xmp:MetadataDate>2009-11-19T10:59:45-05:00</xmp:MetadataDate> <xmp:ModifyDate>2009-11-19T10:59:45-05:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"> <xmpMM:DerivedFrom rdf:parseType="Resource"/> <xmpMM:DocumentID>xmp.did:0280117407206811994CE9092FC44322</xmpMM:DocumentID> <xmpMM:InstanceID>xmp.iid:0280117407206811994CE9092FC44322</xmpMM:InstanceID> <xmpMM:OriginalDocumentID>xmp.did:0280117407206811994CE9092FC44322</xmpMM:OriginalDocumentID> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1          36341          36341    Motif Core (AS 2.0 Classes Export Frame)
+      2          20469          56810    Scene 1
+      3            213          57023    
+      4            214          57237    
+      5            213          57450    
+      6            214          57664    
+      7            198          57862    
+      8            215          58077    
+      9            223          58300    
+     10            217          58517    
+     11            216          58733    
+     12            216          58949    
+     13            211          59160    
+     14            213          59373    
+     15            217          59590    
+     16            210          59800    
+     17            214          60014    
+     18             17          60031    
+     19              2          60033    
+     20            106          60139    
+     21             36          60175    
+     22             36          60211    
+     23             36          60247    
+     24             36          60283    
+     25           1909          62192    
+     26             60          62252    
+     27             60          62312    
+     28             60          62372    
+     29             60          62432    
+     30             60          62492    
+     31             60          62552    
+     32             60          62612    
+     33             60          62672    
+     34            119          62791    
+     35             58          62849    
+     36             58          62907    
+     37             58          62965    
+     38             58          63023    
+     39             58          63081    
+     40             58          63139    
+     41             58          63197    
+     42             58          63255    
+     43             58          63313    
+     44             58          63371    
+     45             58          63429    
+     46             58          63487    
+     47             58          63545    
+     48             58          63603    
+     49             58          63661    
+     50             58          63719    
+     51             58          63777    
+     52             58          63835    
+     53             58          63893    
+     54             58          63951    
+     55             56          64007    
+     56             56          64063    
+     57             55          64118    
+     58             54          64172    
+     59             54          64226    
+     60             54          64280    
+     61            141          64421    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Motif Core                             0             0                   578
+Scene 1                              145             0                  8468
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Symbol 2                              57             0                     0
+arrow button                         121             0                     0
+price                                  0             0                     0
+nav holder                             0             0                     0
+number                                36           306                     2
+userDetails                            0             0                     0
+btn                                    0             0                     0
+templateid_mc                          0             0                     0
+interactiontimer_mc                    0             0                   749
+conduitdata_mc                         0             0                   204
+conduit_mc                             0             0                 11385
+Tween 4                                0             0                     0
+Tween 3                                0             0                     0
+Tween 2                                0             0                     0
+Tween 1                                0             0                     0
+back_btn_mc                            0             0                     0
+main_mv_mc                             0           231                   772
+clickTagger                           40             0                     0
+bg                                     0             0                     0
+arrao button                           0             0                     0
+browse_btn_functions                   0             0                     0
+loader bar progress                   97             0                     0
+loader bar                           143             0                     0
+hoodie                                 0             0                     0
+holder                                40             0                     0
+details                                0             0                     0
+hoodies_mc                            58             0                    59
+ btn                                  72            67                     0
+deign_btn_mc                           0             0                    10
+txt_rollover                           0           133                     0
+legal                                  0           133                     0
+red                                   54             0                     0
+logo01                              1725             0                     0
+c_anim                              3110             0                     0
+InnerHolder                            0             0                     0
+Large Image Holder                     0             0                     0
+productDetailMask                     55             0                     0
+ZoomViewStroke                         0             0                     0
+Symbol 1                             202             0                     2
+ZoomProductMC                         54             0                     0
+ZoomTOol                               0             0                   476
+
+
+Tweened Shapes: 95 bytes
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+Gotham-Bold                    4404     .0123456789BCDHMNSabcdefhiklmnoprsuy®
+Gotham-Book                    6133     !"'*,-./029ABCDEFHIJKMNOPRSTUWZabcdefghijklmnoprstuvwxyz©®’
+
+ActionScript Bytes    Location
+------------------    --------
+             11385    conduit_mc:Layer 1:1
+               204    conduitdata_mc:Layer 1:1
+               749    interactiontimer_mc:Layer 1:1
+                 2    number:Layer 4:1
+               578    Motif Core:Motif Script:1
+              8387    Scene 1:as:1
+               253    main_mv_mc:Actions:1
+                59    hoodies_mc:Layer 2:1
+                 2    ZoomTOol:// script:5
+               405    ZoomTOol:// script:16
+                 2    Symbol 1:action:1
+                69    ZoomTOol:// script:42
+                35    main_mv_mc:Actions:24
+                35    main_mv_mc:Actions:33
+                 2    deign_btn_mc:Layer 3:1
+                 2    deign_btn_mc:Layer 3:6
+                 6    deign_btn_mc:Layer 3:12
+               447    main_mv_mc:Actions:43
+                 2    main_mv_mc:Actions:73
+               107    
+                81    Scene 1:as:60
+             16908    ActionScript 2.0 Classes
+
+
+
+

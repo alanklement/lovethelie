@@ -1,0 +1,82 @@
+<PageflipDataSet>
+	<Settings PageWidth="300" PageHeight="250" AutoSize="false"
+
+		StartPage="1" Hardcover="false" Hardpage="false" EmbossedPages="true"
+
+		LargeCover="false" LargeCoverTopOversize="10" LargeCoverSideOversize="10"
+
+		BackContent="false" BackFile="pages/back.swf" BackActive="true"
+		BackAlwaysVisible="true" HcoverAngle="-30" ClickArea="5"
+		AutoFlipArea="56" GotoPageSpeed="2" MousePursuitSpeed="5"
+		OnReleaseSpeed="3" TearDistance="80" FlippingEnabled="true"
+
+		startAutoFlip="false" AutoFlipDefaultInterval="5" AutoFlipLooping="true"
+
+		RightToLeft="false" PageScale="true" PageCache="5" UnloadPages="false"
+		PageLoaderBackColor="0xffffff" PageLoaderColor="0xffffff"
+
+		TransparencyEnabled="false" TransparencyActivePage="false"
+
+		PDFlink="pages/pageflipcover.pdf" ButtonHelp="false" ZoomAreaWidth="680"
+		ZoomAreaHeight="440" ZoomFollowSpeed="5" ZoomActivePage="false"
+		ZoomOnPageClick="false" DragZoom="false" ThumbnailsEnabled="false"
+
+		LiveThumbnails="false" ThumbnailsActivePages="false" ThumbnailScale="true"
+		ThumbnailWidth="104" ThumbnailHeight="120" ThumbnailPadding="20"
+		ThumbnailBorderWidth="1" ThumbnailBorderColor="0x333333"
+		ThumbnailBorderHoverColor="0x333333" MouseControl="true">
+
+		<Sounds Enabled="false" EffectVolume="10" Start="pf1.mp3" End="pf2.mp3"
+			TearOff="pf3.mp3" />
+
+	</Settings>
+
+	<PageOrder>
+		
+		<PageData PageFile="embedded:cover_mc" />
+		<PageData PageFile="pages/page_1.swf" />
+		<PageData PageFile="pages/page_2.swf" />
+		<PageData PageFile="pages/page_3.swf" />
+		<PageData PageFile="pages/page_4.swf" />
+		<PageData PageFile="pages/page_5.swf" />
+		<PageData PageFile="pages/page_6.swf" />
+		<PageData PageFile="pages/page_7.swf" />
+		<PageData PageFile="pages/page_8.swf" />
+		<PageData PageFile="pages/page_9.swf" />
+		<PageData PageFile="pages/page_10.swf" />
+		<PageData PageFile="pages/page_11.swf" />
+		<PageData PageFile="pages/page_12.swf" />
+		<PageData PageFile="pages/page_13.swf" />
+		<PageData PageFile="pages/page_14.swf" />
+		<PageData PageFile="pages/page_15.swf" />
+		<PageData PageFile="pages/page_16.swf" />
+		<PageData PageFile="pages/cover.swf" />
+
+	</PageOrder>
+
+	<TableOfContents>
+		<Title Name="Table of Contents:" />
+
+		<Link Name="Features" TargetLabel="Features" Skip="true" />
+		<Link Name="New Features" TargetLabel="NewFeatures" Skip="true" />
+		<Link Name="Transparency" TargetLabel="Transparency" Skip="true" />
+		<Link Name="Page Spread Anim" TargetLabel="SpreadAnim" Skip="true" />
+		<Link Name="Sound Demo" TargetLabel="SoundDemo" Skip="true" />
+		<Link Name="Video Demo" TargetLabel="VideoDemo" Skip="true" />
+		<Link Name="Back Cover" TargetPage="18" Skip="true" />
+		<Link Name="Thumbnails" TargetPage="9999" />
+	</TableOfContents>
+
+	<Language SoundLoadingText="Loading sounds #" ZoomLoadingText="Loading zoom page #"
+		PrintLoadingText="Loading print page #" PagerText="Page #"
+		ZoomPagerText="Zoom page #" ThumbnailPagerSingle="Thumbnails"
+		ThumbnailPager="Thumbs #" ThumbnailPreviousPageButtonHelp="Previous page"
+		ThumbnailNextPageButtonHelp="Next page" PreviousPageButtonHelp="Flip backward 1 page"
+		NextPageButtonHelp="Flip forward 1 page" ZoomLeftButtonHelp="Zoom left side page"
+		ZoomRightButtonHelp="Zoom right side page" PrintLeftButtonHelp="Print left side page"
+		PrintRightButtonHelp="Print right side page" ThumbnailButtonHelp="Thumbnail view"
+		PDFButtonHelp="Download this book in pdf format" StartAutoFlipHelp="Start auto flipping"
+		StopAutoFlipHelp="Stop auto flipping">
+	</Language>
+
+</PageflipDataSet>

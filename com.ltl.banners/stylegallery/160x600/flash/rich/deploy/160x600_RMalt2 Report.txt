@@ -1,0 +1,116 @@
+160x600_RMalt2.swf Movie Report
+--------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1          23704          23704    Scene 1 (AS 2.0 Classes Export Frame)
+      2             13          23717    
+      3             13          23730    
+      4             13          23743    
+      5             13          23756    
+      6             13          23769    
+      7             13          23782    
+      8             13          23795    
+      9             13          23808    
+     10              8          23816    
+     11              2          23818    
+     12              2          23820    
+     13              2          23822    
+     14              2          23824    
+     15              2          23826    
+     16              2          23828    
+     17              2          23830    
+     18              2          23832    
+     19              2          23834    
+     20              2          23836    
+     21              2          23838    
+     22              2          23840    
+     23              2          23842    
+     24              2          23844    
+     25              2          23846    
+     26              2          23848    
+     27              2          23850    
+     28              2          23852    
+     29              2          23854    
+     30              2          23856    
+     31             12          23868    
+     32           1740          25608    
+     33             28          25636    
+     34             28          25664    
+     35             23          25687    
+     36              2          25689    
+     37              2          25691    
+     38              2          25693    
+     39              2          25695    
+     40              2          25697    
+     41              2          25699    
+     42              2          25701    
+     43              2          25703    
+     44              2          25705    
+     45              2          25707    
+     46              2          25709    
+     47              2          25711    
+     48              2          25713    
+     49              2          25715    
+     50              2          25717    
+     51              2          25719    
+     52              2          25721    
+     53              2          25723    
+     54              2          25725    
+     55           1303          27028    
+     56             33          27061    
+     57             33          27094    
+     58             33          27127    
+     59             33          27160    
+     60             33          27193    
+     61          12041          39234    
+     62             24          39258    
+     63             24          39282    
+     64             24          39306    
+     65             24          39330    
+     66             24          39354    
+     67             14          39368    
+     68              2          39370    
+     69              2          39372    
+     70             10          39382    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                               65             0                   709
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+bg                                    59             0                     0
+img_3                                  0             0                     0
+img_2                                  0             0                     0
+inspire copy                           0           123                     0
+logo                                   0             0                     0
+open-close                            40             0                     0
+Left_Nav                               0             0                     0
+Image                                  0             0                     0
+visit_gallery                          0            67                     0
+copy                                   0            82                     0
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+Archer-Semibold                2357     .IKUadehiklnoprstuwy
+ConduitITC-Medium              1651     ADEGIKLRSTVY
+ConduitITC-Bold                1601     AEFGHIMORST
+
+ActionScript Bytes    Location
+------------------    --------
+               707    Scene 1:as:61
+                 2    Scene 1:as:70
+              4932    ActionScript 2.0 Classes
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+nancywanted.jpg                 7921      236800   JPEG Quality=60
+mmeliantha.jpg                  8878      236800   JPEG Quality=60
+Bitmap 4                        1550       11544   JPEG Quality=60
+nachteule.jpg                   6705      236800   JPEG Quality=60
+arrow.png                        134         256   Lossless
+
+
+
+

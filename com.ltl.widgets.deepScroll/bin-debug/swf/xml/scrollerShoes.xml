@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shoes>
+	<shoe>
+		<image>men_shoe_01.png</image>
+		<description>men_shoe_01.png</description>
+		<link>http://en.wikipedia.org/wiki/Good_Times</link>
+	</shoe>
+	<shoe>
+		<image>men_shoe_01.png</image>
+		<description>men_shoe_02.png</description>
+		<link>http://en.wikipedia.org/wiki/Good_Times</link>
+	</shoe>
+	<shoe>
+		<image>men_shoe_01.png</image>
+		<description>men_shoe_03.png</description>
+		<link>http://en.wikipedia.org/wiki/Good_Times</link>
+	</shoe>
+	<shoe>
+		<image>men_shoe_01.png</image>
+		<description>men_shoe_04.png</description>
+		<link>http://en.wikipedia.org/wiki/Good_Times</link>
+	</shoe>
+	<shoe>
+		<image>men_shoe_01.png</image>
+		<description>men_shoe_05.png</description>
+		<link>http://en.wikipedia.org/wiki/Good_Times</link>
+	</shoe>
+	<shoe>
+		<image>men_shoe_01.png</image>
+		<description>men_shoe_06.png</description>
+		<link>http://en.wikipedia.org/wiki/Good_Times</link>
+	</shoe>
+	<shoe>
+		<image>men_shoe_01.png</image>
+		<description>men_shoe_07.png</description>
+		<link>http://en.wikipedia.org/wiki/Good_Times</link>
+	</shoe>
+	<shoe>
+		<image>men_shoe_01.png</image>
+		<description>men_shoe_08.png</description>
+		<link>http://en.wikipedia.org/wiki/Good_Times</link>
+	</shoe>
+	<shoe>
+		<image>men_shoe_01.png</image>
+		<description>men_shoe_9.png</description>
+		<link>http://en.wikipedia.org/wiki/Good_Times</link>
+	</shoe>
+	<shoe>
+		<image>men_shoe_01.png</image>
+		<description>men_shoe_10.png</description>
+		<link>http://en.wikipedia.org/wiki/Good_Times</link>
+	</shoe>
+</shoes>
+

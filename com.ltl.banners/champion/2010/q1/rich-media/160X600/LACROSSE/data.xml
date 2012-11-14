@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<products>
+	<product>
+		<big_img>01.jpg</big_img>
+		<thumb_img>01.png</thumb_img>	
+		<h1><![CDATA[Lacrosse Shorts]]></h1>
+		<h2><![CDATA[Lacrosse<br />Shorts]]></h2>
+		<description><![CDATA[Keeps you cool and dry.<br />Available in more colors.]]></description>
+		<url>http://www.championusa.com/Champion/Products/C81374.aspx</url>
+	</product>
+	<product>
+		<big_img>02.jpg</big_img>
+		<thumb_img>02.png</thumb_img>	
+		<h1><![CDATA[Double Dry® Vented Running Shorts]]></h1>
+		<h2><![CDATA[Double Dry® Vented Running Shorts]]></h2>
+		<description><![CDATA[Keeps you cool and dry.<br />Brief liner for comfort.<br />Available in more colors.]]></description>
+		<url>http://www.championusa.com/Champion/Products/C88256.aspx</url>
+	</product>
+	<product>
+		<big_img>03.jpg</big_img>
+		<thumb_img>03.png</thumb_img>	
+		<h1><![CDATA[Double Dry® Burnout Vented Tee]]></h1>
+		<h2><![CDATA[Double Dry® Burnout Vented Tee]]></h2>
+		<description><![CDATA[Keeps you cool and dry.<br />Breathable mesh panels.<br />Available in more colors.]]></description>
+		<url>http://www.championusa.com/Champion/Products/CT8252.aspx</url>
+	</product>
+	<product>
+		<big_img>04.jpg</big_img>
+		<thumb_img>04.png</thumb_img>
+		<h1><![CDATA[Double Dry® Short Sleeve Tee]]></h1>
+		<h2><![CDATA[Double Dry® Short Sleeve Tee]]></h2>
+		<description><![CDATA[Keeps you cool and dry.<br />Available in more colors.<br />Tag-free.]]></description>
+		<url>http://www.championusa.com/Champion/Products/CT2098.aspx</url>
+	</product>
+	<product>
+		<big_img>05.jpg</big_img>
+		<thumb_img>05.png</thumb_img>
+		<h1><![CDATA[High Performance Ankle Socks]]></h1>
+		<h2><![CDATA[High Performance Ankle Socks]]></h2>
+		<description><![CDATA[Keeps you cool and dry.<br />Odor control.Cushioning for high impact comfort.]]></description>
+		<url>http://www.championusa.com/Champion/Products/CH180.aspx</url>
+	</product>
+</products>

@@ -1,0 +1,65 @@
+﻿cll_invitation_300x250.swf Movie Report
+----------------------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+      1011    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash CS4 Professional</xmp:CreatorTool> <xmp:CreateDate>2010-08-05T06:11:46-04:00</xmp:CreateDate> <xmp:MetadataDate>2010-10-03T12:11:13-04:00</xmp:MetadataDate> <xmp:ModifyDate>2010-10-03T12:11:13-04:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:FA7F11740720681180839A7A0BAA7A7F</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:FA7F11740720681180839A7A0BAA7A7F</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:018011740720681193A696A66BDB6038</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:F97F11740720681180839A7A0BAA7A7F</stRef:instanceID> <stRef:documentID>xmp.did:088011740720681193A696A66BDB6038</stRef:documentID> <stRef:originalDocumentID>xmp.did:018011740720681193A696A66BDB6038</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          39690          39690    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1             97             0                 12252
+
+Symbol               Shape Bytes    Text Bytes    ActionScript Bytes
+-----------------    -----------    ----------    ------------------
+<Group>_1                      0             0                     0
+<Path>                       105             0                     0
+<Path>_1                      90             0                     0
+<Path>_1_0                    39             0                     0
+<Path>                       105             0                     0
+<Path>_1                      90             0                     0
+h2_txt                         0             0                     0
+join_now_mc                   77            47                     0
+mc_cover_up                   44             0                     0
+mc_envelope                    0             0                     0
+mc_envelope_back              47             0                     0
+mc_envelope_flap              56             0                     0
+mc_envelope_front            182             0                     0
+mc_last                        0             0                     0
+mc_postcard_back               0             0                     0
+mc_postcard_front              0             0                     0
+mc_swoosh                      0             0                     0
+mc_uber                        0             0                     0
+Symbol 1                       0             0                     0
+Symbol 2                       0             0                     0
+Symbol 3                      61             0                     0
+text_3                        44           104                     0
+txt_1                        774             0                     0
+txt_2                        182           176                     0
+txt_11                         0           271                     0
+txt_21                         0           262                     0
+
+Font Name                      Bytes         Characters
+---------------------------    ----------    ----------
+GillSans                             1999     IJNORWacehiklmnoprstuy
+GillSans-Light                       1990     .CGHILNTVWaceghijmnortuvy
+GillSans-LightItalic Italic          2095     ()CLacefghiklmnoprtuvwy
+
+ActionScript Bytes    Location
+------------------    --------
+             12252    Scene 1:Frame 1
+
+Bitmap                 Compressed    Original      Compression
+-------------------    ----------    ----------    -----------
+post-card-front.jpg          7696        199060    JPEG Quality=79
+post-card-back.jpg           8681        199060    Imported JPEG=102
+swoosh.png                    128          8256    Lossless
+
+
+
+

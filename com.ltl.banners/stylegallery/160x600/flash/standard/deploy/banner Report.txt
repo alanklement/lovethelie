@@ -1,0 +1,127 @@
+banner.swf Movie Report
+------------------------
+
+Metadata
+--------
+Bytes    Value
+-----    -----
+ 1290    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash CS4 Professional</xmp:CreatorTool> <xmp:CreateDate>2010-02-05T12:17:12-05:00</xmp:CreateDate> <xmp:MetadataDate>2010-02-08T17:17:21-05:00</xmp:MetadataDate> <xmp:ModifyDate>2010-02-08T17:17:21-05:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:F77F117407206811AB08A8385AE7A923</stRef:instanceID> <stRef:documentID>xmp.did:F77F117407206811AB08A8385AE7A923</stRef:documentID> <stRef:originalDocumentID>xmp.did:F77F117407206811AB08A8385AE7A923</stRef:originalDocumentID> </xmpMM:DerivedFrom> <xmpMM:DocumentID>xmp.did:7D137DD93B206811994CBAE324BC0201</xmpMM:DocumentID> <xmpMM:InstanceID>xmp.iid:7D137DD93B206811994CBAE324BC0201</xmpMM:InstanceID> <xmpMM:OriginalDocumentID>xmp.did:F77F117407206811AB08A8385AE7A923</xmpMM:OriginalDocumentID> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1          20175          20175    Scene 1 (AS 2.0 Classes Export Frame)
+      2              6          20181    
+      3              2          20183    
+      4              2          20185    
+      5              2          20187    
+      6              2          20189    
+      7              2          20191    
+      8              2          20193    
+      9              2          20195    
+     10              2          20197    
+     11            103          20300    
+     12              2          20302    
+     13              2          20304    
+     14              2          20306    
+     15              2          20308    
+     16              2          20310    
+     17              2          20312    
+     18              2          20314    
+     19              2          20316    
+     20              2          20318    
+     21              2          20320    
+     22              6          20326    
+     23              2          20328    
+     24           2696          23024    
+     25             13          23037    
+     26             13          23050    
+     27            109          23159    
+     28              2          23161    
+     29              2          23163    
+     30              2          23165    
+     31              2          23167    
+     32              2          23169    
+     33              2          23171    
+     34              2          23173    
+     35              2          23175    
+     36              2          23177    
+     37              2          23179    
+     38              2          23181    
+     39              2          23183    
+     40              2          23185    
+     41              2          23187    
+     42              2          23189    
+     43              2          23191    
+     44              2          23193    
+     45              2          23195    
+     46              2          23197    
+     47              2          23199    
+     48              2          23201    
+     49              2          23203    
+     50             16          23219    
+     51             12          23231    
+     52             12          23243    
+     53             12          23255    
+     54          24157          47412    
+     55             12          47424    
+     56             12          47436    
+     57            112          47548    
+     58              2          47550    
+     59              2          47552    
+     60              2          47554    
+     61              2          47556    
+     62              2          47558    
+     63              2          47560    
+     64              2          47562    
+     65              2          47564    
+     66              2          47566    
+     67              2          47568    
+     68              2          47570    
+     69              2          47572    
+     70              2          47574    
+     71              2          47576    
+     72           1962          49538    
+     73             13          49551    
+     74             13          49564    
+     75             13          49577    
+     76              8          49585    
+     77              2          49587    
+     78              2          49589    
+     79              2          49591    
+     80             10          49601    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                               65             0                   696
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+img3                                   0             0                     0
+img2                                   0             0                     0
+visit_gallery                          0            67                     0
+image                                  0             0                     0
+copy                                   0            93                     0
+logo                                   0             0                     0
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+ConduitITC-Medium              1651     ADEGIKLRSTVY
+Archer-Bold                    1456     ?AEILNOPRSTY
+ConduitITC-Bold                1100     FGIKLNOR
+
+ActionScript Bytes    Location
+------------------    --------
+               694    Scene 1:as:54
+                 2    Scene 1:as:80
+             16864    ActionScript 2.0 Classes
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+logo.png                        1730        5200   JPEG Quality=60
+girl_02.jpg                     8364      236800   JPEG Quality=60
+girl_03.jpg                    14857      236800   JPEG Quality=60
+arrow.png                        134         256   Lossless
+
+
+
+

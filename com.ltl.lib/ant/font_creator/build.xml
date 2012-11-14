@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!-- ====================================================================== 
+     fontcreator by Martin Raedlinger (mr@formatlos.de)
+     ====================================================================== -->
+<project name="fontcreator" default="0. run">
+	
+    <description>
+    	fontcreator
+    </description>
+	
+	<property environment="env"/>
+	<property file="${basedir}/build_project.properties"/>
+	
+	
+	
+	<target name="0. run" depends="3. compile font">
+	</target>
+	
+	<!-- inputs -->
+	<target name="1. input">
+		<input message="template:" addproperty="font.template" defaultvalue="${font.default.template}" />
+		<input message="source:" addproperty="font.source" defaultvalue="${font.default.source}" />
+		<input message="className:" addproperty="font.className" defaultvalue="${font.default.className}" />
+		<input message="fontName:" addproperty="font.fontName" defaultvalue="${font.default.fontName}" />
+		<input message="fontWeight:" addproperty="font.fontWeight" defaultvalue="${font.default.fontWeight}" validargs="normal,bold,heavy" />
+		<input message="fontStyle:" addproperty="font.fontStyle" defaultvalue="${font.default.fontStyle}" validargs="normal,italic,oblique" />
+		<input message="mimeType:" addproperty="font.mimeType" defaultvalue="${font.default.mimeType}" validargs="application/x-font,application/x-font-truetype" />
+		<input message="unicodeRange:" addproperty="font.unicodeRange" defaultvalue="${font.default.unicodeRange}"/>
+		
+		<!-- set properties for compiling -->
+		<property name="font.class" value="${basedir}/${project.src}/${font.className}.as"></property>
+		<property name="font.swf" value="${basedir}/${project.fonts}/${font.className}.swf"></property>
+	</target>
+	
+	<target name="2. create class file" depends="1. input">
+				
+		<!-- copy template -->
+		<copy file="${basedir}/${font.templatedir}/${font.template}.as" tofile="${font.class}"/> 
+		
+		<!-- replace placeholder -->
+		<replaceregexp flags="-g">
+			<fileset dir="${basedir}/${project.src}" />
+			<regexp pattern="%source" />
+			<substitution expression="/../../${font.dir}/${font.source}" />
+		</replaceregexp>
+		
+		<replaceregexp flags="-g">
+			<fileset dir="${basedir}/${project.src}" />
+			<regexp pattern="%className" />
+			<substitution expression="${font.className}" />
+		</replaceregexp>
+		
+		<replaceregexp flags="-g">
+			<fileset dir="${basedir}/${project.src}" />
+			<regexp pattern="%fontName" />
+			<substitution expression="${font.fontName}" />
+		</replaceregexp>
+		
+		<replaceregexp flags="-g">
+			<fileset dir="${basedir}/${project.src}" />
+			<regexp pattern="%fontWeight" />
+			<substitution expression="${font.fontWeight}" />
+		</replaceregexp>
+	
+		<replaceregexp flags="-g">
+			<fileset dir="${basedir}/${project.src}" />
+			<regexp pattern="%fontStyle" />
+			<substitution expression="${font.fontStyle}" />
+		</replaceregexp>
+		
+		<replaceregexp flags="-g">
+			<fileset dir="${basedir}/${project.src}" />
+			<regexp pattern="%mimeType" />
+			<substitution expression="${font.mimeType}" />
+		</replaceregexp>
+		
+		<replaceregexp flags="-g">
+			<fileset dir="${basedir}/${project.src}" />
+			<regexp pattern="%unicodeRange" />
+			<substitution expression="${font.unicodeRange}" />
+		</replaceregexp>
+		
+	</target>
+	
+	<target name="3. compile font" depends="2. create class file">
+		<fdt.launch.application mainclass="${font.class}" target="${font.swf}" compilerarguments="${project.settings}" projectname="${project.name}" debug="false" startswf="false" />
+	</target>
+	
+	
+	
+	<target name="reset compiler">
+		<fdt.launch.resetFCSH />
+	</target>
+	
+	
+	
+	
+</project>

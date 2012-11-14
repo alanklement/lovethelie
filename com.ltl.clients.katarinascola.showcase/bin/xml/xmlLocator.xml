@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book title="Beauty" enabled="true" fileName="beauty.xml"/>
+  <book title="Fashion" enabled="true" fileName="fashion.xml"/>
+  <book title="Covers" enabled="true" fileName="covers.xml"/>
+</books>

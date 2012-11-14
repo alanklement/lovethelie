@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="External Lib Downloader">
+
+	<condition property="isMac">
+		<os family="mac" />
+	</condition>
+
+	<condition property="isWindows">
+		<os family="windows" />
+	</condition>
+
+	<target name="doMac" if="isMac">
+		<echo message="Came into the Mac target" />
+	</target>
+
+	<target name="doWindows" if="isWindows">
+		<echo message="Came into the Windows target" />
+	</target>
+
+	<target name="Get Signals">
+
+		<antcall target="doMac">
+		</antcall>
+
+		<antcall target="doWindows">
+		</antcall>
+	</target>
+
+</project>

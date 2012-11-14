@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:VBox xmlns:mx="http://www.adobe.com/2006/mxml" 
+	verticalScrollPolicy="off" 
+	horizontalScrollPolicy="off" 
+	verticalAlign="middle" 
+	horizontalAlign="center" 
+	creationComplete="_onComplete()"
+	render="on_render()">
+	
+	<mx:Script>
+		<![CDATA[
+			import mx.core.UIComponent;
+			import com.greensock.TweenLite;
+			import mx.controls.Label;
+			import mx.controls.Alert;
+			private var preloader : Scola_Preloader;			 		 					
+			
+			private function on_render() : void {
+				IRimage.source = Data_Model.image_url_prefix + this.data.source;
+			}
+
+			private function _onComplete():void
+			{
+				preloader = new Scola_Preloader();
+				var ui:UIComponent = new UIComponent();
+				
+				ui.addChild(preloader);
+				holderVB.addChild(ui);
+				IRimage.addEventListener(Event.ADDED_TO_STAGE, _onAddedToStage );
+				IRimage.addEventListener(IOErrorEvent.IO_ERROR, _onError);
+				IRimage.source = Data_Model.image_url_prefix + this.data.source;
+			}
+			
+			private function _onError(event:IOErrorEvent):void
+			{
+				IRimage.removeEventListener(IOErrorEvent.IO_ERROR, _onError);
+				
+				Alert.show("An image is missing, and can't be downloaded\n\n" + 
+						"There must have been an error when the image was uploaded." + 
+						" There should be a blank spot in the images window. Remove the space as you would remove an image.\n\n" + 
+						"If this window keeps poping up, contact Alan to have him fix it",'Missing Image');
+						
+				var errorTxt:Label = new Label();
+				errorTxt.text = "Image Missing";
+				holderVB.addChild(errorTxt);
+			}
+			
+							
+			private function _onAddedToStage( $evt:Event ):void
+			{
+				TweenLite.to(IRimage, 1, {alpha:1});
+				IRimage.removeEventListener(Event.ADDED_TO_STAGE, _onAddedToStage );
+			}
+						
+		]]>
+	</mx:Script>
+	<mx:VBox id="holderVB" verticalScrollPolicy="off" horizontalScrollPolicy="off" verticalAlign="middle" horizontalAlign="center" >
+		<mx:Image id="IRimage" maxHeight="125" maxWidth="125" verticalAlign="middle" horizontalAlign="center" alpha="0"/>
+	</mx:VBox>
+</mx:VBox>
